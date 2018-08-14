@@ -1,4 +1,4 @@
-// festival dialogue variations for sam
+// festival dialogue variations for marriage candidates
 
 {
   "Format": "1.4",
@@ -3811,6 +3811,408 @@
             },
           "Entries": {
              "Elliott": "Winter Star is a time for compassion and thanksgiving...$7#$b#And forgiveness.$n"
+          }
+       },
+      
+// SHANE
+
+      // SPRING EGG FESTIVAL
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/spring13",
+          "When": {
+            "Language": "en",
+            "Hearts:Shane": "4, 5, 6, 7, 8, 9, 10"
+            },
+          "Entries": {
+             "Shane": "*buuuuuurpp*$10#$b#Hahaha, sorry!$h#$b#Good food, good beer, good eggs.$6"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/spring13",
+          "When": {
+            "Language": "en",
+            "Relationship:Shane": "Dating"
+            },
+          "Entries": {
+             "Shane": "Hey, babe. You doin' that egg hunt thing?$6#$b#Go easy on Jas, she's been looking forward to it!$h"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/spring13",
+          "When": {
+            "Language": "en",
+            "Relationship:Shane": "Engaged"
+            },
+          "Entries": {
+             "Shane_spouse": "Look how excited Jas is!$l#$b#I'm pretty happy, y'know?$6#$b#You're great with the chickens, Jas loves you, Marnie approves... I can't believe I'm saying it, but I'm looking forward to life.$h#$b#Especially our life together.$l"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/spring13",
+          "When": {
+            "Language": "en",
+            "Relationship:Shane": "Divorced"
+            },
+          "Entries": {
+             "Shane": "%Shane looks a bit out of it, better leave him alone."
+          }
+       },
+      
+      // SPRING FLOWER DANCE
+
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/spring24",
+          "When": {
+            "Language": "en",
+            "Hearts:Shane": "4, 5, 6, 7, 8, 9, 10"
+            },
+          "Entries": {
+             "Shane": "Hey, pal. I'll be honest... I'm not looking forward to this stupid dance at all.$s#$b#Wish there was some booze around here. I should check the punch, Pam usually puts something good in it...$n"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/spring24",
+          "When": {
+            "Language": "en",
+            "Relationship:Shane": "Dating"
+            },
+          "Entries": {
+             "Shane": "I've never actually looked forward to this stupid dance before.$l"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/spring24",
+          "When": {
+            "Language": "en",
+            "Relationship:Shane": "Engaged"
+            },
+          "Entries": {
+             "Shane_spouse": "I'm really stressed out about the wedding.#$b#I can't even think of anything else. I know it's supposed to be exciting and make me happy.$s#$b#I just want to get it over with and be married to you already!$h"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/spring24",
+          "When": {
+            "Language": "en",
+            "Relationship:Shane": "Divorced"
+            },
+          "Entries": {
+             "Shane": "Buzz off.$a"
+          }
+       },
+      
+      // SUMMER LUAU
+
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/summer11",
+          "When": {
+            "Language": "en",
+            "Hearts:Shane": "4, 5, 6, 7, 8, 9, 10"
+            },
+          "Entries": {
+             "Shane": "Yeaaaahhhhhhhhh gimme that delicous soup!!!$6#$b#I can't wait!$h"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/summer11",
+          "When": {
+            "Language": "en",
+            "Relationship:Shane": "Dating"
+            },
+          "Entries": {
+             "Shane": "Ooh, ooh, ooh, this salsa is SPICY!$10#$b#I love it!$h#$b#Here, try some, babe.$l"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/summer11",
+          "When": {
+            "Language": "en",
+            "Relationship:Shane": "Engaged"
+            },
+          "Entries": {
+             "Shane_spouse": "I actually wouldn't mind going for a swim right now.$6#$b#Yeah, and seeing you in your swim trunks would be a bonus.^Yeah, and seeing you in your bikini would be a bonus.$h#$b#Love you, buddy.$l"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/summer11",
+          "When": {
+            "Language": "en",
+            "Relationship:Shane": "Divorced"
+            },
+          "Entries": {
+             "Shane": "*hic* Just go away... *hic* I don want to see you!$s"
+          }
+       },
+      
+      // SUMMER MOONLIGHT JELLIES
+
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/summer28",
+          "When": {
+            "Language": "en",
+            "Hearts:Shane": "4, 5, 6, 7, 8, 9, 10"
+            },
+          "Entries": {
+             "Shane": "I don't really get why this is so hyped up. I mean sure, it's kinda cool, but is it worth the whole town coming out here?#$b#I'd rather be alone.$u"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/summer28",
+          "When": {
+            "Language": "en",
+            "Relationship:Shane": "Dating"
+            },
+          "Entries": {
+             "Shane": "I never really got the hype around the moonlight jellies.#$b#Now that I have someone to share it with, I guess I see it differently.$l"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/summer28",
+          "When": {
+            "Language": "en",
+            "Relationship:Shane": "Engaged"
+            },
+          "Entries": {
+             "Shane_spouse": "Another summer over.#$b#And we'll be married as the colors change and the weather gets chilly.$l#$b#Yeah, I'm feeling a little romantic. So sue me.$h"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/summer28",
+          "When": {
+            "Language": "en",
+            "Relationship:Shane": "Divorced"
+            },
+          "Entries": {
+             "Shane": "...$a"
+          }
+       },
+      
+      // FALL STARDEW VALLEY FAIR
+
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/fall16",
+          "When": {
+            "Language": "en",
+            "Hearts:Shane": "4, 5, 6, 7, 8, 9, 10"
+            },
+          "Entries": {
+             "Shane": "Chickens can be surprisingly friendly once they get to know you.#$b#If you approach them gently, they'll let you pet them.$6#$b#Jas is learning, but Vincent is...still a little aggressive in his approach.$h"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/fall16",
+          "When": {
+            "Language": "en",
+            "Relationship:Shane": "Dating"
+            },
+          "Entries": {
+             "Shane": "You know, I used to be pretty good at all these carnival games.$6#$b#Maybe I can win you a prize!$h#$b#That's like, a cute, romantic thing to do or something, right?$l"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/fall16",
+          "When": {
+            "Language": "en",
+            "Relationship:Shane": "Engaged"
+            },
+          "Entries": {
+             "Shane_spouse": "If it's cool with you, I think I'd like to build a coop on the farm, so I can bring Charlie and some of his friends with me.$6#$b#I'm actually really looking forward to farm life. I don't know anything about growing stuff, but you can teach me.$l#$b#And I can help you with the chickens.$h"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/fall16",
+          "When": {
+            "Language": "en",
+            "Relationship:Shane": "Divorced"
+            },
+          "Entries": {
+             "Shane": "Just leave me alone with my chickens.$s"
+          }
+       },
+      
+      // FALL SPIRIT'S EVE
+
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/fall27",
+          "When": {
+            "Language": "en",
+            "Hearts:Shane": "4, 5, 6, 7, 8, 9, 10"
+            },
+          "Entries": {
+             "Shane": "This seven-layer dip is amazing!$6#$b#Hey, I just come for the food and free beer.$h"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/fall27",
+          "When": {
+            "Language": "en",
+            "Relationship:Shane": "Dating"
+            },
+          "Entries": {
+             "Shane": "Hey, babe. Stick around and have a drink with me.$6#$b#I guess I'll go with you into the haunted maze, if you want.$l#$b#Just as long as you hold me if I get scared - hahahaha!$h"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/fall27",
+          "When": {
+            "Language": "en",
+            "Relationship:Shane": "Engaged"
+            },
+          "Entries": {
+             "Shane_spouse": "We gotta serve this pumpkin ale at the wedding, babe! It's so good!$hAnd I want everyone to have a good time.$l"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/fall27",
+          "When": {
+            "Language": "en",
+            "Relationship:Shane": "Divorced"
+            },
+          "Entries": {
+             "Shane": "%Shane looks like he's had a bit too much pumpkin ale. Maybe now's not a good time to talk."
+          }
+       },
+      
+      // WINTER ICE FESTIVAL
+
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/winter8",
+          "When": {
+            "Language": "en",
+            "Hearts:Shane": "4, 5, 6, 7, 8, 9, 10"
+            },
+          "Entries": {
+             "Shane": "It's way too cold out here.$aAs soon as Jas is done building her snowman, I'm taking a look and then going back inside.$u"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/winter8",
+          "When": {
+            "Language": "en",
+            "Relationship:Shane": "Dating"
+            },
+          "Entries": {
+             "Shane": "Hey, @.$l#$b#Wanna sneak into one of these igloos and make out?$h"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/winter8",
+          "When": {
+            "Language": "en",
+            "Relationship:Shane": "Engaged"
+            },
+          "Entries": {
+             "Shane_spouse": "Hey, hubby.^Hey, wifey.$6#$b#What? I'm just trying it out!$h#$b#I like the way it sounds.$l"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/winter8",
+          "When": {
+            "Language": "en",
+            "Relationship:Shane": "Divorced"
+            },
+          "Entries": {
+             "Shane": "%Shane's looking at the lake like he's contemplating jumping in to get away from you."
+          }
+       },
+      
+      // WINTER FEAST OF THE WINTER STAR
+
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/winter25",
+          "When": {
+            "Language": "en",
+            "Hearts:Shane": "4, 5, 6, 7, 8, 9, 10"
+            },
+          "Entries": {
+             "Shane": "I might not believe in all this Winter Star nonsense...#$b#But the food is good!$h"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/winter25",
+          "When": {
+            "Language": "en",
+            "Relationship:Shane": "Dating"
+            },
+          "Entries": {
+             "Shane": "Hey, @. I got you something for Winter Star.$6#$b#But, uh... You'll have to come over to my place later to get it.$l"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/winter25",
+          "When": {
+            "Language": "en",
+            "Relationship:Shane": "Engaged"
+            },
+          "Entries": {
+             "Shane_spouse": "Before you moved here, I dreaded all of these occasions. I just came out for the food and free beer, if I came out at all.#$b#Now, I have a reason to be here. A reason to be alive, even.$6#$b#I'm trying to say I'm thankful for you, you know?$l"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/winter25",
+          "When": {
+            "Language": "en",
+            "Relationship:Shane": "Divorced"
+            },
+          "Entries": {
+             "Shane": "...$u"
           }
        }
       
