@@ -30,6 +30,7 @@ We'll see if I ever get there.
 
 ## Updates
 
+- 08/13/2018 - Immersive Festival Dialogue is now on GitHub!
 - 08/13/2018 - ver. 0.9.0 - Added Elliott's dialogue
 - 08/13/2018 - ver. 0.8.0 - Added Penny's dialogue, fixed issue with dialogue conditions
 - 08/09/2018 - ver. 0.7.0 - Added Abigail's dialogue
