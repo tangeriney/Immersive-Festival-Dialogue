@@ -14,6 +14,7 @@ A Stardew Valley Content Patcher mod that adds dialogue for characters during fe
 - Abigail
 - Penny
 - Elliott
+- Shane
 
 **Next up:**
 - All the other marriage candidates
@@ -30,6 +31,7 @@ We'll see if I ever get there.
 
 ## Updates
 
+- 08/14/2018 - ver. 0.10.0 - Added Shane's dialogue
 - 08/13/2018 - Immersive Festival Dialogue is now on GitHub!
 - 08/13/2018 - ver. 0.9.0 - Added Elliott's dialogue
 - 08/13/2018 - ver. 0.8.0 - Added Penny's dialogue, fixed issue with dialogue conditions
