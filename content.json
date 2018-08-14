@@ -1,0 +1,3818 @@
+// festival dialogue variations for sam
+
+{
+  "Format": "1.4",
+  "Changes": [
+
+// SAM
+      
+      // SPRING EGG FESTIVAL
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/spring13",
+          "When": {
+            "Language": "en",
+            "Hearts:Sam": "4, 5, 6, 7, 8, 9, 10"
+            },
+          "Entries": {
+             "Sam": "Hey @... *sniff* Did you try the... Ahh... aaahhhh.....$n#$b#AATCHOOO!!$8#$b#Ubhh...sorry...$s"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/spring13",
+          "When": {
+            "Language": "en",
+            "Relationship:Sam": "Dating"
+            },
+          "Entries": {
+             "Sam": "That new allergy medicine seems to be working.$h#$b#Thanks babe!$l"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/spring13",
+          "When": {
+            "Language": "en",
+            "Relationship:Sam": "Engaged"
+            },
+          "Entries": {
+             "Sam_spouse": "Can't believe I'm getting married!$h#$b#We're really growing up...$n#$b#I hope we're all friends forever.$u"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/spring13",
+          "When": {
+            "Language": "en",
+            "Relationship:Sam": "Divorced"
+            },
+          "Entries": {
+             "Sam": "...Leave us alone.$a"
+          }
+       },
+      
+      // SPRING FLOWER DANCE
+
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/spring24",
+          "When": {
+            "Language": "en",
+            "Hearts:Sam": "4, 5, 6, 7, 8, 9, 10"
+            },
+          "Entries": {
+             "Sam": "This is kind of a weird tradition, isn't it?#$b#We didn't have anything like this in the city.#$b#At least I don't have to work today!$h"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/spring24",
+          "When": {
+            "Language": "en",
+            "Relationship:Sam": "Dating"
+            },
+          "Entries": {
+             "Sam": "For the first time, I'm actually really excited to dance with someone.#$b#So how about it? Will you dance with me?$l"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/spring24",
+          "When": {
+            "Language": "en",
+            "Relationship:Sam": "Engaged"
+            },
+          "Entries": {
+             "Sam_spouse": "Hey, this'll be good practice for our wedding dance, huh?#$b#I can't wait to be Mr. @!$h"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/spring24",
+          "When": {
+            "Language": "en",
+            "Relationship:Sam": "Married"
+            },
+          "Entries": {
+             "Sam": "You'll always be my favorite dance partner, partner.$u"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/spring24",
+          "When": {
+            "Language": "en",
+            "Relationship:Sam": "Divorced"
+            },
+          "Entries": {
+             "Sam": "Don't even ask.$7"
+          }
+       },
+      
+      // SUMMER LUAU
+
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/summer11",
+          "When": {
+            "Language": "en",
+            "Hearts:Sam": "4, 5, 6, 7, 8, 9, 10"
+            },
+          "Entries": {
+             "Sam": "The soup is pretty much always awful, but I guess it's tradition?#$b#...There's pizza in the freezer at home...$s"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/summer11",
+          "When": {
+            "Language": "en",
+            "Relationship:Sam": "Dating"
+            },
+          "Entries": {
+             "Sam": "You look really cute in that lei.$u"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/summer11",
+          "When": {
+            "Language": "en",
+            "Relationship:Sam": "Engaged"
+            },
+          "Entries": {
+             "Sam_spouse": "See how the sun sparkles on the waves out there?#$b#Kinda makes me wanna be a mermaid...#$b#Merman..? Whatever.$u"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/summer11",
+          "When": {
+            "Language": "en",
+            "Relationship:Sam": "Divorced"
+            },
+          "Entries": {
+             "Sam": "Isn't there anyone else you could talk to?$s"
+          }
+       },
+      
+      // SUMMER MOONLIGHT JELLIES
+
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/summer28",
+          "When": {
+            "Language": "en",
+            "Hearts:Sam": "4, 5, 6, 7, 8, 9, 10"
+            },
+          "Entries": {
+             "Sam": "Hey, you can watch the jellies here with us, if you want.#$b#It's pretty cool.$u"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/summer28",
+          "When": {
+            "Language": "en",
+            "Relationship:Sam": "Dating"
+            },
+          "Entries": {
+             "Sam": "I wish there was food here...$7#$b#Hey, wanna have a midnight snack date after this?$h"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/summer28",
+          "When": {
+            "Language": "en",
+            "Relationship:Sam": "Engaged"
+            },
+          "Entries": {
+             "Sam_spouse": "I always thought this was a pretty romantic occasion...#$b#Love you.$l"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/summer28",
+          "When": {
+            "Language": "en",
+            "Relationship:Sam": "Married"
+            },
+          "Entries": {
+             "Sam": "It's getting kinda chilly. Guess summer really is over...$7#$b#Are you cold, honey? You can wear my jacket.$u"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/summer28",
+          "When": {
+            "Language": "en",
+            "Relationship:Sam": "Divorced"
+            },
+          "Entries": {
+             "Sam": "...$7"
+          }
+       },
+      
+      // FALL STARDEW VALLEY FAIR
+
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/fall16",
+          "When": {
+            "Language": "en",
+            "Hearts:Sam": "4, 5, 6, 7, 8, 9, 10"
+            },
+          "Entries": {
+             "Sam": "Have you seen Vincent around? I won him a prize at the slingshot booth.#$b#Wait 'til he sees this!$h"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/fall16",
+          "When": {
+            "Language": "en",
+            "Relationship:Sam": "Dating"
+            },
+          "Entries": {
+             "Sam": "You're so handsome.^You're so pretty.$l#$b#Did I say that out loud?$8"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/fall16",
+          "When": {
+            "Language": "en",
+            "Relationship:Sam": "Engaged"
+            },
+          "Entries": {
+             "Sam_spouse": "I'm trying to convince Sebastian that the best man speech is a tradition that can't be ignored!$u"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/fall16",
+          "When": {
+            "Language": "en",
+            "Relationship:Sam": "Married"
+            },
+          "Entries": {
+             "Sam_spouse": "Gus has started up the barbecue.#$b#I can smell it...$u#$b#Let's go eat!$h"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/fall16",
+          "When": {
+            "Language": "en",
+            "Relationship:Sam": "Divorced"
+            },
+          "Entries": {
+             "Sam": "%Sam meets your eyes and then looks away."
+          }
+       },
+      
+      // FALL SPIRIT'S EVE
+
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/fall27",
+          "When": {
+            "Language": "en",
+            "Hearts:Sam": "4, 5, 6, 7, 8, 9, 10"
+            },
+          "Entries": {
+             "Sam": "Hi!$h#$b#I can never figure this maze out... Dead end again, I guess.$n"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/fall27",
+          "When": {
+            "Language": "en",
+            "Relationship:Sam": "Dating"
+            },
+          "Entries": {
+             "Sam": "I'm hopeless at this!$h#$b#Maybe we should just find a less traveled dead end and get cozy.$l"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/fall27",
+          "When": {
+            "Language": "en",
+            "Relationship:Sam": "Engaged"
+            },
+          "Entries": {
+             "Sam_spouse": "You scared me!$8#$b#I guess I'm extra on edge with the wedding right around the corner.$h"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/fall27",
+          "When": {
+            "Language": "en",
+            "Relationship:Sam": "Divorced"
+            },
+          "Entries": {
+             "Sam": "The last place I want to be is trapped in a maze with you right now.$a"
+          }
+       },
+      
+      // WINTER ICE FESTIVAL
+
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/winter8",
+          "When": {
+            "Language": "en",
+            "Hearts:Sam": "4, 5, 6, 7, 8, 9, 10"
+            },
+          "Entries": {
+             "Sam": "Pretty cold, huh?#$b#It might snow in Zuzu City...but nothing like this.$u"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/winter8",
+          "When": {
+            "Language": "en",
+            "Relationship:Sam": "Dating"
+            },
+          "Entries": {
+             "Sam": "Hey, look, you've got snowflakes in your hair!$h#$b#It's cute.$l"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/winter8",
+          "When": {
+            "Language": "en",
+            "Relationship:Sam": "Engaged"
+            },
+          "Entries": {
+             "Sam_spouse": "We're going to have a winter wonderland wedding!$u"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/winter8",
+          "When": {
+            "Language": "en",
+            "Relationship:Sam": "Divorced"
+            },
+          "Entries": {
+             "Sam": "%Sam is busy pretending you don't exist."
+          }
+       },
+      
+      // WINTER FEAST OF THE WINTER STAR
+
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/winter25",
+          "When": {
+            "Language": "en",
+            "Hearts:Sam": "4, 5, 6, 7, 8, 9, 10"
+            },
+          "Entries": {
+             "Sam": "What are you thankful for, @?#$b#Me? I'm thankful for...#$b#New friends!$u"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/winter25",
+          "When": {
+            "Language": "en",
+            "Relationship:Sam": "Dating"
+            },
+          "Entries": {
+             "Sam": "I wish we were snuggled up inside with some hot cocoa.$l#$b#...And pizza...$u"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/winter25",
+          "When": {
+            "Language": "en",
+            "Relationship:Sam": "Engaged"
+            },
+          "Entries": {
+             "Sam_spouse": "I'm so thankful that you're in my life. I can't wait to be married to you.$l"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/winter25",
+          "When": {
+            "Language": "en",
+            "Relationship:Sam": "Divorced"
+            },
+          "Entries": {
+             "Sam": "@...$s#$b#In the spirit of the Winter Star...$7#$b#Let's both just be happy tonight.$n"
+          }
+       },
+      
+// MARU
+
+      // SPRING EGG FESTIVAL
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/spring13",
+          "When": {
+            "Language": "en",
+            "Hearts:Maru": "4, 5, 6, 7, 8, 9, 10"
+            },
+          "Entries": {
+             "Maru": "Hi @! Are you going to participate in the egg hunt? I am!#$b#Abigail has won every year since we were kids, but it's still fun.$h"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/spring13",
+          "When": {
+            "Language": "en",
+            "Relationship:Maru": "Dating"
+            },
+          "Entries": {
+             "Maru": "I was just gossipping with with Penny...#$b#Well, actually, I was telling her about you.$l"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/spring13",
+          "When": {
+            "Language": "en",
+            "Relationship:Maru": "Engaged"
+            },
+          "Entries": {
+             "Maru_spouse": "Just think! Next year we'll be hunting for eggs as a married couple.$l#$b#I wonder if we can win as a team...$u"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/spring13",
+          "When": {
+            "Language": "en",
+            "Relationship:Maru": "Divorced"
+            },
+          "Entries": {
+             "Maru": "%Maru appears to be to deeply involved in conversation to acknowledge you."
+          }
+       },
+      
+      // SPRING FLOWER DANCE
+
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/spring24",
+          "When": {
+            "Language": "en",
+            "Hearts:Maru": "4, 5, 6, 7, 8, 9, 10"
+            },
+          "Entries": {
+             "Maru": "I think Harvey might ask me to dance...$8#$b#He's sweet, but not really my type. I don't want to make things awkward at work, though...$9#$b#I guess one dance won't hurt.$6"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/spring24",
+          "When": {
+            "Language": "en",
+            "Relationship:Maru": "Dating"
+            },
+          "Entries": {
+             "Maru": "I hope you're planning on asking me to dance with you?#$b#I don't really want to dance with anyone else.$l"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/spring24",
+          "When": {
+            "Language": "en",
+            "Relationship:Maru": "Engaged"
+            },
+          "Entries": {
+             "Maru_spouse": "I'm sorry if I stumble in my steps a little, today.$8#$b#I can't concentrate on much except for the wedding!$l"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/spring24",
+          "When": {
+            "Language": "en",
+            "Relationship:Maru": "Married"
+            },
+          "Entries": {
+             "Maru": "They always get paired together for the dance... but I think Penny and Sam like each other.$u#$b#Or maybe I just don't want us to be the only young married couple in town anymore!$h"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/spring24",
+          "When": {
+            "Language": "en",
+            "Relationship:Maru": "Divorced"
+            },
+          "Entries": {
+             "Maru": "%You should probably leave your ex-wife alone today, don't you think?"
+          }
+       },
+      
+      // SUMMER LUAU
+
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/summer11",
+          "When": {
+            "Language": "en",
+            "Hearts:Maru": "4, 5, 6, 7, 8, 9, 10"
+            },
+          "Entries": {
+             "Maru": "Honestly, I probably wouldn't trust that soup. You never know what people might put in it.#$b#People like my brother and his friends...$u"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/summer11",
+          "When": {
+            "Language": "en",
+            "Relationship:Maru": "Dating"
+            },
+          "Entries": {
+             "Maru": "I'm sure I could invent something that would turn the spit, so Linus didn't have to stand there and do it all day.$u#$b#But I think he likes doing it! And honestly he does it so well...$n#$b#Mmmmm...$l"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/summer11",
+          "When": {
+            "Language": "en",
+            "Relationship:Maru": "Engaged"
+            },
+          "Entries": {
+             "Maru_spouse": "We're just talking about the wedding!$h#$b#Harvey's excited for us, too.$6"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/summer11",
+          "When": {
+            "Language": "en",
+            "Relationship:Maru": "Divorced"
+            },
+          "Entries": {
+             "Maru": "Harvey, could you write me a doctor's note to excuse me from talking to this jerk ever again?$a"
+          }
+       },
+      
+      // SUMMER MOONLIGHT JELLIES
+
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/summer28",
+          "When": {
+            "Language": "en",
+            "Hearts:Maru": "4, 5, 6, 7, 8, 9, 10"
+            },
+          "Entries": {
+             "Maru": "This is one of my favorite things! The jellies are just fascinating to watch.$l#$b#Dad and I have done a lot of research about their habits, but so much about these creatures is still a mystery!$6"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/summer28",
+          "When": {
+            "Language": "en",
+            "Relationship:Maru": "Dating"
+            },
+          "Entries": {
+             "Maru": "Stand a little closer.#$b#Your hands are cold! Guess fall really is right around the corner...$8"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/summer28",
+          "When": {
+            "Language": "en",
+            "Relationship:Maru": "Engaged"
+            },
+          "Entries": {
+             "Maru_spouse": "One of the upsides of getting married is that my dad won't always be hovering over my shoulder anymore!$h#$b#Don't get me wrong, I love him and the time we spend together but...$n#$b#He's very over-protective.$8"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/summer28",
+          "When": {
+            "Language": "en",
+            "Relationship:Maru": "Married"
+            },
+          "Entries": {
+             "Maru": "It might sound kind of weird, but I've really missed spending time with my parents like this."
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/summer28",
+          "When": {
+            "Language": "en",
+            "Relationship:Maru": "Divorced"
+            },
+          "Entries": {
+             "Maru": "I'd really appreciate it if you let me enjoy this night... without your presence.$8"
+          }
+       },
+      
+      // FALL STARDEW VALLEY FAIR
+
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/fall16",
+          "When": {
+            "Language": "en",
+            "Hearts:Maru": "4, 5, 6, 7, 8, 9, 10"
+            },
+          "Entries": {
+             "Maru": "Oh hey, @! Don't mind me, just stuffing my face.$h"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/fall16",
+          "When": {
+            "Language": "en",
+            "Relationship:Maru": "Dating"
+            },
+          "Entries": {
+             "Maru": "You're cute.$l#$b#But I'm not sharing. Go get your own plate! *licks fingers*$h"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/fall16",
+          "When": {
+            "Language": "en",
+            "Relationship:Maru": "Engaged"
+            },
+          "Entries": {
+             "Maru_spouse": "Can you barbecue?#$b#*om nom nom*$9"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/fall16",
+          "When": {
+            "Language": "en",
+            "Relationship:Maru": "Divorced"
+            },
+          "Entries": {
+             "Maru": "...Maybe I'm not that hungry...$s"
+          }
+       },
+      
+      // FALL SPIRIT'S EVE
+
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/fall27",
+          "When": {
+            "Language": "en",
+            "Hearts:Maru": "4, 5, 6, 7, 8, 9, 10"
+            },
+          "Entries": {
+             "Maru": "I'm completely lost, as usual...$s#$b#This doesn't make sense, mathematically I should have reached the prize by now... Must have gotten mixed up.$8#$b#Okay, you can do this, Maru, logic never fails!$u"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/fall27",
+          "When": {
+            "Language": "en",
+            "Relationship:Maru": "Dating"
+            },
+          "Entries": {
+             "Maru": "Are you lost, too, @?#$b#Maybe we should stick together...$l"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/fall27",
+          "When": {
+            "Language": "en",
+            "Relationship:Maru": "Engaged"
+            },
+          "Entries": {
+             "Maru_spouse": "You're much better at this than I am!#$b#You go get that prize, babe!$h"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/fall27",
+          "When": {
+            "Language": "en",
+            "Relationship:Maru": "Divorced"
+            },
+          "Entries": {
+             "Maru": "...$8"
+          }
+       },
+      
+      // WINTER ICE FESTIVAL
+
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/winter8",
+          "When": {
+            "Language": "en",
+            "Hearts:Maru": "4, 5, 6, 7, 8, 9, 10"
+            },
+          "Entries": {
+             "Maru": "The right machinery could really make this snowperson come to life!#u#$b#Hmm... I wonder...$8"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/winter8",
+          "When": {
+            "Language": "en",
+            "Relationship:Maru": "Dating"
+            },
+          "Entries": {
+             "Maru": "Are you going to build a snow man?#$b#Or maybe you could help me with mine!$l#$b#It needs a little creative flair. I'm afraid I'm a bit too logical when it comes to art.$h"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/winter8",
+          "When": {
+            "Language": "en",
+            "Relationship:Maru": "Engaged"
+            },
+          "Entries": {
+             "Maru_spouse": "Maybe I should call this guy done.#$b#We can go for a walk instead.$h#$b#It is pretty chilly out... I'll have to hold you close.$l"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/winter8",
+          "When": {
+            "Language": "en",
+            "Relationship:Maru": "Married"
+            },
+          "Entries": {
+             "Maru_spouse": "Nice touch with the hat, honey."
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/winter8",
+          "When": {
+            "Language": "en",
+            "Relationship:Maru": "Divorced"
+            },
+          "Entries": {
+             "Maru": "Don't touch it. You ruin everything.$a"
+          }
+       },
+      
+      // WINTER FEAST OF THE WINTER STAR
+
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/winter25",
+          "When": {
+            "Language": "en",
+            "Hearts:Maru": "4, 5, 6, 7, 8, 9, 10"
+            },
+          "Entries": {
+             "Maru": "I can't believe how hungry I am!$9#$b#I've been working hard all morning finishing up the gifts I made.$h"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/winter25",
+          "When": {
+            "Language": "en",
+            "Relationship:Maru": "Dating"
+            },
+          "Entries": {
+             "Maru": "You can sit at our table, if you want, @!$l"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/winter25",
+          "When": {
+            "Language": "en",
+            "Relationship:Maru": "Engaged"
+            },
+          "Entries": {
+             "Maru_spouse": "I'm thankful for my family.#$b#Including you!$h"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/winter25",
+          "When": {
+            "Language": "en",
+            "Relationship:Maru": "Divorced"
+            },
+          "Entries": {
+             "Maru": "@...$8#$b#Let's just be civil today, okay?$9#$b#It's the holidays, after all.$n"
+          }
+       },
+
+// Harvey
+
+      // SPRING EGG FESTIVAL
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/spring13",
+          "When": {
+            "Language": "en",
+            "Hearts:Harvey": "4, 5, 6, 7, 8, 9, 10"
+            },
+          "Entries": {
+             "Harvey": "Hello, @.$h#$e#How are you feeling?$n#$b#Poor Samson has one of the worst cases of seasonal allergies I've ever seen.$s"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/spring13",
+          "When": {
+            "Language": "en",
+            "Relationship:Harvey": "Dating"
+            },
+          "Entries": {
+             "Harvey": "Oh, hello!$h#$e#Are you enjoying the festivities...$n#$b#...hun?^...sweetie?$l"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/spring13",
+          "When": {
+            "Language": "en",
+            "Relationship:Harvey": "Engaged"
+            },
+          "Entries": {
+             "Harvey_spouse": "Honey, did you try Mrs. Mullner's strawberry shortcake?$h#$e#*gasp* I just realized I still have to get a cake for the wedding!$8"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/spring13",
+          "When": {
+            "Language": "en",
+            "Relationship:Harvey": "Divorced"
+            },
+          "Entries": {
+             "Harvey": "My professional recommendation?#$b#Don't talk to me right now.$a"
+          }
+       },
+      
+      // SPRING FLOWER DANCE
+
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/spring24",
+          "When": {
+            "Language": "en",
+            "Hearts:Harvey": "4, 5, 6, 7, 8, 9, 10"
+            },
+          "Entries": {
+             "Harvey": "Oh, hi, @. Are you going to ask anyone to dance today?#$b#I'm always so embarrassed to have to get paired up with someone.$7"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/spring24",
+          "When": {
+            "Language": "en",
+            "Relationship:Harvey": "Dating"
+            },
+          "Entries": {
+             "Harvey": "@, w...would you do me the honor of being my dance partner?$l"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/spring24",
+          "When": {
+            "Language": "en",
+            "Relationship:Harvey": "Engaged"
+            },
+          "Entries": {
+             "Harvey_spouse": "I'll be happy to be your dance partner for the rest of my life.$l"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/spring24",
+          "When": {
+            "Language": "en",
+            "Relationship:Harvey": "Married"
+            },
+          "Entries": {
+             "Harvey": "Oh, honey, do we still have to dance?$7#$b#Well, if it's tradition... At least I have you now.$h"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/spring24",
+          "When": {
+            "Language": "en",
+            "Relationship:Harvey": "Divorced"
+            },
+          "Entries": {
+             "Harvey": "%Harvey is avoiding eye contact."
+          }
+       },
+      
+      // SUMMER LUAU
+
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/summer11",
+          "When": {
+            "Language": "en",
+            "Hearts:Harvey": "4, 5, 6, 7, 8, 9, 10"
+            },
+          "Entries": {
+             "Harvey": "You know, it's hard to eat healthy with so much delicious food around!$h#$e#I've been under a lot of stress lately. It's nice to have a day off to relax and indulge a little.$n"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/summer11",
+          "When": {
+            "Language": "en",
+            "Relationship:Harvey": "Dating"
+            },
+          "Entries": {
+             "Harvey": "I'm afraid I don't have the best beach body here...$s#$e#Oh...?$7#$b#You like me just the way I am?$l"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/summer11",
+          "When": {
+            "Language": "en",
+            "Relationship:Harvey": "Engaged"
+            },
+          "Entries": {
+             "Harvey_spouse": "To be honest, I used to really dread these kinds of social events.#$b#You've taken a great weight off of my shoulders, you know!$h#$e#I can't believe I'm the lucky guy who gets to marry you.$l"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/summer11",
+          "When": {
+            "Language": "en",
+            "Relationship:Harvey": "Divorced"
+            },
+          "Entries": {
+             "Harvey": "%Harvey looks like he's trying very hard to sink into the sand and disappear."
+          }
+       },
+      
+      // SUMMER MOONLIGHT JELLIES
+
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/summer28",
+          "When": {
+            "Language": "en",
+            "Hearts:Harvey": "4, 5, 6, 7, 8, 9, 10"
+            },
+          "Entries": {
+             "Harvey": "It's a little late for me, to be honest.#$b#But the spectacle of the Moonlight Jellies is always worth it.$h"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/summer28",
+          "When": {
+            "Language": "en",
+            "Relationship:Harvey": "Dating"
+            },
+          "Entries": {
+             "Harvey": "Not a bad date night, huh?$h#$b#Here, I brought us blankets and hot coffee!$l"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/summer28",
+          "When": {
+            "Language": "en",
+            "Relationship:Harvey": "Engaged"
+            },
+          "Entries": {
+             "Harvey_spouse": "Ahh, feel that chill in the air already?#$b#I'm looking forward to an autumn wedding.$h#$b#But I'm most looking forward to being your husband.$l"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/summer28",
+          "When": {
+            "Language": "en",
+            "Relationship:Harvey": "Married"
+            },
+          "Entries": {
+             "Harvey": "I hope I never get too old and tired to enjoy this beautiful spectacle.$l#$b#If I do, you'll just have to wheel me out here and make me enjoy it, anyway!$h"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/summer28",
+          "When": {
+            "Language": "en",
+            "Relationship:Harvey": "Divorced"
+            },
+          "Entries": {
+             "Harvey": "...I can go stand somewhere else.$s"
+          }
+       },
+      
+      // FALL STARDEW VALLEY FAIR
+
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/fall16",
+          "When": {
+            "Language": "en",
+            "Hearts:Harvey": "4, 5, 6, 7, 8, 9, 10"
+            },
+          "Entries": {
+             "Harvey": "They're kind of cute.$h#$b#I almost want to pet them, but I'm afraid they might bite...$s#$e#Do you have animals on your farm, @?$n"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/fall16",
+          "When": {
+            "Language": "en",
+            "Relationship:Harvey": "Dating"
+            },
+          "Entries": {
+             "Harvey": "I probably wouldn't freely admit this to just anyone, but when I was a little boy I used to beg my parents for a pet pig!$h#$b#Mother was afraid of everything, though, so a pig was a definite no-go.$n#$e#I guess I've become a lot like her, now.$s#$b#But you bring out the courage in me!$l"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/fall16",
+          "When": {
+            "Language": "en",
+            "Relationship:Harvey": "Engaged"
+            },
+          "Entries": {
+             "Harvey_spouse": "I'm going to do my best to help you out on the farm, @.#$b#You may have a lot to teach me.$h#$e#It's going to be a new life adventure for the both of us.$l"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/fall16",
+          "When": {
+            "Language": "en",
+            "Relationship:Harvey": "Married"
+            },
+          "Entries": {
+             "Harvey": "I'm really looking forward to seeing our grange display all set up, dear.#$b#You've worked so hard all year, you deserve to show off your accomplishments!$h"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/fall16",
+          "When": {
+            "Language": "en",
+            "Relationship:Harvey": "Divorced"
+            },
+          "Entries": {
+             "Harvey": "Oh, just leave me alone with the rest of the animals.$a"
+          }
+       },
+      
+      // FALL SPIRIT'S EVE
+
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/fall27",
+          "When": {
+            "Language": "en",
+            "Hearts:Harvey": "4, 5, 6, 7, 8, 9, 10"
+            },
+          "Entries": {
+             "Harvey": "I just want to leave... But now I can't find my way out of this darned maze!$7#$b#Oh, what was that!?$8#$b#...I'm just going to stay here... Don't mind me.$s"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/fall27",
+          "When": {
+            "Language": "en",
+            "Relationship:Harvey": "Dating"
+            },
+          "Entries": {
+             "Harvey": "@! You found me!$7##b#I hate to ask this, but...would it be alright if I stuck with you through the maze?$s#$b#And, um... Maybe I can hold your hand?$l"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/fall27",
+          "When": {
+            "Language": "en",
+            "Relationship:Harvey": "Engaged"
+            },
+          "Entries": {
+             "Harvey_spouse": "It's so dark in this maze, @.$s#$b#But it's not so bad, with you here.$l"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/fall27",
+          "When": {
+            "Language": "en",
+            "Relationship:Harvey": "Divorced"
+            },
+          "Entries": {
+             "Harvey": "!!!$8#$b#Oh... You're the scariest thing in this maze.$a"
+          }
+       },
+      
+      // WINTER ICE FESTIVAL
+
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/winter8",
+          "When": {
+            "Language": "en",
+            "Hearts:Harvey": "4, 5, 6, 7, 8, 9, 10"
+            },
+          "Entries": {
+             "Harvey": "It's so v-very cold out here... I wish I'd brought a heavier jacket.$7#$b#Say, @, do you know how to light a campfire?$n"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/winter8",
+          "When": {
+            "Language": "en",
+            "Relationship:Harvey": "Dating"
+            },
+          "Entries": {
+             "Harvey": "I could use a nice, steamy cup of coffee, right now.#$b#Hey, why don't we head to my place after this? I may not be a good cook, but I make a mean cuppa Joe!$h"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/winter8",
+          "When": {
+            "Language": "en",
+            "Relationship:Harvey": "Engaged"
+            },
+          "Entries": {
+             "Harvey_spouse": "Gus and I were discussing the wedding feast, dear.$h#$b#It's going to be a beautiful, white wedding. I hope it snows!$l"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/winter8",
+          "When": {
+            "Language": "en",
+            "Relationship:Harvey": "Divorced"
+            },
+          "Entries": {
+             "Harvey": "%Harvey is talking to Gus and pretending not to notice you."
+          }
+       },
+      
+      // WINTER FEAST OF THE WINTER STAR
+
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/winter25",
+          "When": {
+            "Language": "en",
+            "Hearts:Harvey": "4, 5, 6, 7, 8, 9, 10"
+            },
+          "Entries": {
+             "Harvey": "Hello, @!#$b#I've made my famous holiday mulled wine. Would you like to try?$h"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/winter25",
+          "When": {
+            "Language": "en",
+            "Relationship:Harvey": "Dating"
+            },
+          "Entries": {
+             "Harvey": "There you are...#$b#Would you like to sit next to me, today?$l"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/winter25",
+          "When": {
+            "Language": "en",
+            "Relationship:Harvey": "Engaged"
+            },
+          "Entries": {
+             "Harvey_spouse": "I can tell it's cold out, but somehow with all this great food, merriment, and the promise of you by my side forever... I don't feel cold at all.$l"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/winter25",
+          "When": {
+            "Language": "en",
+            "Relationship:Harvey": "Divorced"
+            },
+          "Entries": {
+             "Harvey": "Hello, @...$s#$b#Shall we put our differences aside, today, and share a cup of good cheer?$n"
+          }
+       },
+
+// SEBASTIAN
+
+      // SPRING EGG FESTIVAL
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/spring13",
+          "When": {
+            "Language": "en",
+            "Hearts:Sebastian": "4, 5, 6, 7, 8, 9, 10"
+            },
+          "Entries": {
+             "Sebastian": "Abby always wins the egg hunt.#$b#I honestly don't know why Lewis still lets her compete."
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/spring13",
+          "When": {
+            "Language": "en",
+            "Relationship:Sebastian": "Dating"
+            },
+          "Entries": {
+             "Sebastian": "Hey, @.$l#$b#First time I've ever been glad I came to one of these things.$7"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/spring13",
+          "When": {
+            "Language": "en",
+            "Relationship:Sebastian": "Engaged"
+            },
+          "Entries": {
+             "Sebastian_spouse": "Will we still have to come to these events when we're married?#$b#I'd rather just stay home all day with you.$7"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/spring13",
+          "When": {
+            "Language": "en",
+            "Relationship:Sebastian": "Divorced"
+            },
+          "Entries": {
+             "Sebastian": "...I should've just stayed in bed.$s"
+          }
+       },
+      
+      // SPRING FLOWER DANCE
+
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/spring24",
+          "When": {
+            "Language": "en",
+            "Hearts:Sebastian": "4, 5, 6, 7, 8, 9, 10"
+            },
+          "Entries": {
+             "Sebastian": "I wish I didn't have to do this stupid dance...$a#$b#But then Abby wouldn't have anyone to dance with...$n#$b#Don't wanna leave her hangin', I guess...$s"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/spring24",
+          "When": {
+            "Language": "en",
+            "Relationship:Sebastian": "Dating"
+            },
+          "Entries": {
+             "Sebastian": "Do we have to dance?#$b#Why don't we sneak off into the woods, instead...$l"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/spring24",
+          "When": {
+            "Language": "en",
+            "Relationship:Sebastian": "Engaged"
+            },
+          "Entries": {
+             "Sebastian_spouse": "No matter how many times I've done this, I always get the steps wrong.$s#$b#Guess you wouldn't marry me if you were embarrassed of me, though, right?$l"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/spring24",
+          "When": {
+            "Language": "en",
+            "Relationship:Sebastian": "Married"
+            },
+          "Entries": {
+             "Sebastian_spouse": "Maybe we can sit this one out, since we're old married people now?$7"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/spring24",
+          "When": {
+            "Language": "en",
+            "Relationship:Sebastian": "Divorced"
+            },
+          "Entries": {
+             "Sebastian": "%Sebastian is doing a pretty good job of pretending you're invisible."
+          }
+       },
+      
+      // SUMMER LUAU
+
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/summer11",
+          "When": {
+            "Language": "en",
+            "Hearts:Sebastian": "4, 5, 6, 7, 8, 9, 10"
+            },
+          "Entries": {
+             "Sebastian": "What're you putting in the pot this year?#$b#Something wretched, I hope.$h"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/summer11",
+          "When": {
+            "Language": "en",
+            "Relationship:Sebastian": "Dating"
+            },
+          "Entries": {
+             "Sebastian": "Ugh, it's so hot out here.#$b#No, I'm not taking the hoodie off, though I'm sure you'd love that.$h"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/summer11",
+          "When": {
+            "Language": "en",
+            "Relationship:Sebastian": "Engaged"
+            },
+          "Entries": {
+             "Sebastian_spouse": "Sam and I have been talking about his best man duties.$7#$b#Pretty sure he's gonna make a really obnoxious and embarrassing speech.$h#$e#How'd I end up with two of the most awesome people in my life?$l"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/summer11",
+          "When": {
+            "Language": "en",
+            "Relationship:Sebastian": "Divorced"
+            },
+          "Entries": {
+             "Sebastian": "Go away.$a"
+          }
+       },
+      
+      // SUMMER MOONLIGHT JELLIES
+
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/summer28",
+          "When": {
+            "Language": "en",
+            "Hearts:Sebastian": "4, 5, 6, 7, 8, 9, 10"
+            },
+          "Entries": {
+             "Sebastian": "As far as I'm concerned, this is the only remotely cool thing about summer.$7"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/summer28",
+          "When": {
+            "Language": "en",
+            "Relationship:Sebastian": "Dating"
+            },
+          "Entries": {
+             "Sebastian": "Sorry my hands are always cold, babe.#$b#You'll keep them warm, won't you?$l"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/summer28",
+          "When": {
+            "Language": "en",
+            "Relationship:Sebastian": "Engaged"
+            },
+          "Entries": {
+             "Sebastian_spouse": "Hey, I bet we could snuggle up and have some privacy under the docks and still watch the jellies.$l"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/summer28",
+          "When": {
+            "Language": "en",
+            "Relationship:Sebastian": "Divorced"
+            },
+          "Entries": {
+             "Sebastian": "Please know that I will push you in the water if you even think of standing next to me.$a"
+          }
+       },
+      
+      // FALL STARDEW VALLEY FAIR
+
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/fall16",
+          "When": {
+            "Language": "en",
+            "Hearts:Sebastian": "4, 5, 6, 7, 8, 9, 10"
+            },
+          "Entries": {
+             "Sebastian": "Think I'm gonna head home early.#$b#You guys wanna come over and hang out?$7"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/fall16",
+          "When": {
+            "Language": "en",
+            "Relationship:Sebastian": "Dating"
+            },
+          "Entries": {
+             "Sebastian": "You having a good time, @?$7#$b#I guess I'm not having the worst time, here with you.$l"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/fall16",
+          "When": {
+            "Language": "en",
+            "Relationship:Sebastian": "Engaged"
+            },
+          "Entries": {
+             "Sebastian_spouse": "I'm just so nervous about the wedding ceremony. What if I can't remember the vows?$s#$b#I just want to be married to you already.$h"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/fall16",
+          "When": {
+            "Language": "en",
+            "Relationship:Sebastian": "Divorced"
+            },
+          "Entries": {
+             "Sebastian": "...$s"
+          }
+       },
+      
+      // FALL SPIRIT'S EVE
+
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/fall27",
+          "When": {
+            "Language": "en",
+            "Hearts:Sebastian": "4, 5, 6, 7, 8, 9, 10"
+            },
+          "Entries": {
+             "Sebastian": "I named this one Samiffer.$7#$b#She's my favorite.$h"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/fall27",
+          "When": {
+            "Language": "en",
+            "Relationship:Sebastian": "Dating"
+            },
+          "Entries": {
+             "Sebastian": "They kinda scare me. I think that's why I like them so much.#$e#Hey, do you want to go through the haunted maze with me?$l"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/fall27",
+          "When": {
+            "Language": "en",
+            "Relationship:Sebastian": "Engaged"
+            },
+          "Entries": {
+             "Sebastian_spouse": "Hey, babe.$l#$b#How funny would it be to have a skeleton ring-bearer?$h"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/fall27",
+          "When": {
+            "Language": "en",
+            "Relationship:Sebastian": "Divorced"
+            },
+          "Entries": {
+             "Sebastian": "Everything dies.#$e#Even love.$s"
+          }
+       },
+      
+      // WINTER ICE FESTIVAL
+
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/winter8",
+          "When": {
+            "Language": "en",
+            "Hearts:Sebastian": "4, 5, 6, 7, 8, 9, 10"
+            },
+          "Entries": {
+             "Sebastian": "I was thinking about going and building a snowman.#$b#But snowmen are kind of boring, so maybe a snow spaceship or something.$7"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/winter8",
+          "When": {
+            "Language": "en",
+            "Relationship:Sebastian": "Dating"
+            },
+          "Entries": {
+             "Sebastian": "Are you cold? Your nose is all pink.$7#$b#Come here, I'll warm you up.$l"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/winter8",
+          "When": {
+            "Language": "en",
+            "Relationship:Sebastian": "Engaged"
+            },
+          "Entries": {
+             "Sebastian_spouse": "It's going to be a white wedding.$l#$b#I kind of hope it snows.$h"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/winter8",
+          "When": {
+            "Language": "en",
+            "Relationship:Sebastian": "Divorced"
+            },
+          "Entries": {
+             "Sebastian": "%Sebastian looks like he would jump into an icy fishing hole to avoid you."
+          }
+       },
+      
+      // WINTER FEAST OF THE WINTER STAR
+
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/winter25",
+          "When": {
+            "Language": "en",
+            "Hearts:Sebastian": "4, 5, 6, 7, 8, 9, 10"
+            },
+          "Entries": {
+             "Sebastian": "Don't repeat this, but... I'm actually pretty grateful for my mom.#$b#She can be annoying, but she's a good mom.$7"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/winter25",
+          "When": {
+            "Language": "en",
+            "Relationship:Sebastian": "Dating"
+            },
+          "Entries": {
+             "Sebastian": "I got you something...$7#$b#...but I'll give it to you later.$l"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/winter25",
+          "When": {
+            "Language": "en",
+            "Relationship:Sebastian": "Engaged"
+            },
+          "Entries": {
+             "Sebastian_spouse": "I've never been big on family...#$b#But I'm excited that we'll soon be our own family.$l"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/winter25",
+          "When": {
+            "Language": "en",
+            "Relationship:Sebastian": "Divorced"
+            },
+          "Entries": {
+             "Sebastian": "@...$s#$b#Happy Winter Star.$n"
+          }
+       },
+      
+// Leah
+
+      // SPRING EGG FESTIVAL
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/spring13",
+          "When": {
+            "Language": "en",
+            "Hearts:Leah": "4, 5, 6, 7, 8, 9, 10"
+            },
+          "Entries": {
+             "Leah": "Oh hi, @.#$b#I made a leek and dandelion greens salad for the pot luck, but no one seems to be eating it...$u"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/spring13",
+          "When": {
+            "Language": "en",
+            "Relationship:Leah": "Dating"
+            },
+          "Entries": {
+             "Leah": "Hello, sweetie!$l#$b#I'm inspired by all of these beautiful colors! Do you want to come over later and have a painting date?$h"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/spring13",
+          "When": {
+            "Language": "en",
+            "Relationship:Leah": "Engaged"
+            },
+          "Entries": {
+             "Leah_spouse": "Elliott and I are planning the details for the wedding. He's such a big help.#$b#Oh, don't be jealous.$7#$b#You know I find that unattractive.$u"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/spring13",
+          "When": {
+            "Language": "en",
+            "Relationship:Leah": "Divorced"
+            },
+          "Entries": {
+             "Leah": "I thought we had agreed to leave each other alone.$a"
+          }
+       },
+      
+      // SPRING FLOWER DANCE
+
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/spring24",
+          "When": {
+            "Language": "en",
+            "Hearts:Leah": "4, 5, 6, 7, 8, 9, 10"
+            },
+          "Entries": {
+             "Leah": "Are you going to dance in the Flower Dance this year?#$b#I will if someone asks me. I think it's a lovely tradition to return to nature and dance in the woods as a community.$h"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/spring24",
+          "When": {
+            "Language": "en",
+            "Relationship:Leah": "Dating"
+            },
+          "Entries": {
+             "Leah": "I picked this daffodil for you. I thought it would look lovely in your hair today. Do you mind if I...?#$b#There we are! How handsome you look!^There we are! How gorgeous you look!$l"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/spring24",
+          "When": {
+            "Language": "en",
+            "Relationship:Leah": "Engaged"
+            },
+          "Entries": {
+             "Leah_spouse": "I'd love to have our wedding out here in the woods.#$b#Imagine - bare feet and flowers in our hair, saying our vows in nature.$l#$b#I'll talk to Mayor Lewis about it!$h"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/spring24",
+          "When": {
+            "Language": "en",
+            "Relationship:Leah": "Married"
+            },
+          "Entries": {
+             "Leah_spouse": "Hello, my love. Isn't it beautiful out here in the woods today?#$b#I love the snow, but I'm always so full of energy when the world is in bloom.$h"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/spring24",
+          "When": {
+            "Language": "en",
+            "Relationship:Leah": "Divorced"
+            },
+          "Entries": {
+             "Leah": "...$s"
+          }
+       },
+      
+      // SUMMER LUAU
+
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/summer11",
+          "When": {
+            "Language": "en",
+            "Hearts:Leah": "4, 5, 6, 7, 8, 9, 10"
+            },
+          "Entries": {
+             "Leah": "To be honest, I prefer to have the beach to myself.#$b#I come here to visit Elliott quite often. He's a good friend of mine.$h"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/summer11",
+          "When": {
+            "Language": "en",
+            "Relationship:Leah": "Dating"
+            },
+          "Entries": {
+             "Leah": "Look at this gorgeous shell I just plucked from the sand!#$b#Have you been to the tide pools yet? You can find such beautiful things there.$h#$b#We should make a date of it some time.$l"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/summer11",
+          "When": {
+            "Language": "en",
+            "Relationship:Leah": "Engaged"
+            },
+          "Entries": {
+             "Leah_spouse": "I've been coming to the beach a lot lately, to think.#$b#So much change is happening in our lives lately, @.$u#$b#...but I think it'll be for the better!$h"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/summer11",
+          "When": {
+            "Language": "en",
+            "Relationship:Leah": "Divorced"
+            },
+          "Entries": {
+             "Leah": "%Leah ignores you and talks to Elliott instead."
+          }
+       },
+      
+      // SUMMER MOONLIGHT JELLIES
+
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/summer28",
+          "When": {
+            "Language": "en",
+            "Hearts:Leah": "4, 5, 6, 7, 8, 9, 10"
+            },
+          "Entries": {
+             "Leah": "I moved to Stardew Valley in the fall. For me, autumn represents change.#$b#Things change all the time, and you have to roll with the punches. But in the end, I believe it makes us who we are - hopefully that's better people.$u#$b#Anyway, I'm looking forward to it!$h"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/summer28",
+          "When": {
+            "Language": "en",
+            "Relationship:Leah": "Dating"
+            },
+          "Entries": {
+             "Leah": "Oh, I'm glad you found me, @.#$#I prefer to be over here, where I can enjoy the spectacle a little on my own.#$b#But I don't mind if you stay.$l"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/summer28",
+          "When": {
+            "Language": "en",
+            "Relationship:Leah": "Engaged"
+            },
+          "Entries": {
+             "Leah_spouse": "It's almost a spiritual experience, watching these beautiful creatures.#$b#I'm glad to be sharing it with you, now, and always.$l"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/summer28",
+          "When": {
+            "Language": "en",
+            "Relationship:Leah": "Divorced"
+            },
+          "Entries": {
+             "Leah": "I'd appreciate being left alone so I can enjoy this.$u"
+          }
+       },
+      
+      // FALL STARDEW VALLEY FAIR
+
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/fall16",
+          "When": {
+            "Language": "en",
+            "Hearts:Leah": "4, 5, 6, 7, 8, 9, 10"
+            },
+          "Entries": {
+             "Leah": "I really find woodwork to be so fascinating!#$b#Robin's an expert, though what I do is a bit more free-form and a lot less mathematical!$h"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/fall16",
+          "When": {
+            "Language": "en",
+            "Relationship:Leah": "Dating"
+            },
+          "Entries": {
+             "Leah": "I've been thinking about investing in a better chainsaw.#$b#Gosh, you're beautiful.$l#$b#Will you sit and model for me, some time?$h"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/fall16",
+          "When": {
+            "Language": "en",
+            "Relationship:Leah": "Engaged"
+            },
+          "Entries": {
+             "Leah_spouse": "I really don't feel as good about my work this year.$s#$b#I guess I've been so preoccupied with the upcoming wedding, I've let other things slip.$n"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/fall16",
+          "When": {
+            "Language": "en",
+            "Relationship:Leah": "Divorced"
+            },
+          "Entries": {
+             "Leah": "...And this piece was inspired by the feeling of something beautiful changing, twisting, fading, and eventually...flickering out completely.$s"
+          }
+       },
+      
+      // FALL SPIRIT'S EVE
+
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/fall27",
+          "When": {
+            "Language": "en",
+            "Hearts:Leah": "4, 5, 6, 7, 8, 9, 10"
+            },
+          "Entries": {
+             "Leah": "Have you tried this delicious blackberry wine? It tastes like fall...in a bottle!$h#$b#Oh, I may need to sit down...$l"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/fall27",
+          "When": {
+            "Language": "en",
+            "Relationship:Leah": "Dating"
+            },
+          "Entries": {
+             "Leah": "Ah, the bounty of autumn!#$b#I can't believe I ever thought city life would be for me.$7#$b#Not to mention, the people here are so lovely...$l"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/fall27",
+          "When": {
+            "Language": "en",
+            "Relationship:Leah": "Engaged"
+            },
+          "Entries": {
+             "Leah_spouse": "It's going to be a cold wedding.#$b#Would it bother you if I wore a jacket over my wedding dress?$h"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/fall27",
+          "When": {
+            "Language": "en",
+            "Relationship:Leah": "Divorced"
+            },
+          "Entries": {
+             "Leah": "%Leah looks away from you and quickly finishes her pint of pumpkin ale."
+          }
+       },
+      
+      // WINTER ICE FESTIVAL
+
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/winter8",
+          "When": {
+            "Language": "en",
+            "Hearts:Leah": "4, 5, 6, 7, 8, 9, 10"
+            },
+          "Entries": {
+             "Leah": "What do you think of my sculpture, @? I'm calling it 'Siren In A Frozen Sea'.#$b#I know the sirens of mythology weren't mermaids, but I like the modern interpretation.$h"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/winter8",
+          "When": {
+            "Language": "en",
+            "Relationship:Leah": "Dating"
+            },
+          "Entries": {
+             "Leah": "It's hard to carve with these thick gloves on, but I definitely don't want frostbite!#$b#I should go get the chainsaw out of my cabin... I could make it snow!$h"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/winter8",
+          "When": {
+            "Language": "en",
+            "Relationship:Leah": "Engaged"
+            },
+          "Entries": {
+             "Leah_spouse": "I wonder if these sculptures will last long enough to use as decoration for the wedding?$7#$b#Good luck in the ice fishing competition!$h"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/winter8",
+          "When": {
+            "Language": "en",
+            "Relationship:Leah": "Divorced"
+            },
+          "Entries": {
+             "Leah": "911 hello my ex is stalking me. No, the other one.$8"
+          }
+       },
+      
+      // WINTER FEAST OF THE WINTER STAR
+
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/winter25",
+          "When": {
+            "Language": "en",
+            "Hearts:Leah": "4, 5, 6, 7, 8, 9, 10"
+            },
+          "Entries": {
+             "Leah": "I bought myself a new pair of sturdy hiking boots for Winter Star.$h#$b#Hope you're having a good time!$n"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/winter25",
+          "When": {
+            "Language": "en",
+            "Relationship:Leah": "Dating"
+            },
+          "Entries": {
+             "Leah": "All I want for Winter Star is you.$l"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/winter25",
+          "When": {
+            "Language": "en",
+            "Relationship:Leah": "Engaged"
+            },
+          "Entries": {
+             "Leah_spouse": "This year I have so much to be thankful for!#$b#I feel like I'm finally becoming part of this community.#$b#I've been blessed with the ability to enjoy the natural splendor of the valley.#$b#And very soon, you and I will become partners in love and in life.$l"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/winter25",
+          "When": {
+            "Language": "en",
+            "Relationship:Leah": "Divorced"
+            },
+          "Entries": {
+             "Leah": "The spirit of the holidays has changed something in me, @.$s#$b#I'd like us to forgive each other and move on.$u#$b#Maybe some day, we can be friends again.$n"
+          }
+       },
+      
+// ALEX
+
+      // SPRING EGG FESTIVAL
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/spring13",
+          "When": {
+            "Language": "en",
+            "Hearts:Alex": "4, 5, 6, 7, 8, 9, 10"
+            },
+          "Entries": {
+             "Alex": "Hey, @, what's up?#$b#I don't participate in the egg hunt because I don't think it would be fair to everyone else.$h"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/spring13",
+          "When": {
+            "Language": "en",
+            "Relationship:Alex": "Dating"
+            },
+          "Entries": {
+             "Alex": "Hey, babe.$l#$b#Granny made some awesome deviled eggs. You should try 'em.$n#$b#I helped.$h"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/spring13",
+          "When": {
+            "Language": "en",
+            "Relationship:Alex": "Engaged"
+            },
+          "Entries": {
+             "Alex_spouse": "Are you nervous about the wedding?$l#$b#I'm not. I'm excited.$h"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/spring13",
+          "When": {
+            "Language": "en",
+            "Relationship:Alex": "Divorced"
+            },
+          "Entries": {
+             "Alex": "Buzz off, loser.$a"
+          }
+       },
+      
+      // SPRING FLOWER DANCE
+
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/spring24",
+          "When": {
+            "Language": "en",
+            "Hearts:Alex": "4, 5, 6, 7, 8, 9, 10"
+            },
+          "Entries": {
+             "Alex": "Haley looks pretty good when she dances, huh?$h#$b#Nah, I'm not gonna ask her. She'll ask me.$n"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/spring24",
+          "When": {
+            "Language": "en",
+            "Relationship:Alex": "Dating"
+            },
+          "Entries": {
+             "Alex": "I don't care what anyone else says, I'm voting for you for Flower Crown this year.$l"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/spring24",
+          "When": {
+            "Language": "en",
+            "Relationship:Alex": "Engaged"
+            },
+          "Entries": {
+             "Alex_spouse": "Traditions are important for small communities like this. That's why I always dance in the flower dance.#$b#And now I've got the best dance partner ever, like for life.$ls"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/spring24",
+          "When": {
+            "Language": "en",
+            "Relationship:Alex": "Married"
+            },
+          "Entries": {
+             "Alex_spouse": "Hey, babe. Look at you, all dressed up for the dance.$l#$b#Guess I'd better ask you before someone else does.$h"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/spring24",
+          "When": {
+            "Language": "en",
+            "Relationship:Alex": "Divorced"
+            },
+          "Entries": {
+             "Alex": "You're the last person I want to dance with.$9"
+          }
+       },
+      
+      // SUMMER LUAU
+
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/summer11",
+          "When": {
+            "Language": "en",
+            "Hearts:Alex": "4, 5, 6, 7, 8, 9, 10"
+            },
+          "Entries": {
+             "Alex": "What's up, dude?$h#$b#There's no way I'm trying that soup. You never know what someone will put in it.$n#$b#Or how many calories it might have.$7"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/summer11",
+          "When": {
+            "Language": "en",
+            "Relationship:Alex": "Dating"
+            },
+          "Entries": {
+             "Alex": "Hey, hot stuff. Did you bring your bathing suit?#$b#No reason... just wondering.$l"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/summer11",
+          "When": {
+            "Language": "en",
+            "Relationship:Alex": "Engaged"
+            },
+          "Entries": {
+             "Alex_spouse": "Next year we'll be here as a family!$h#$b#That's pretty cool.$l"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/summer11",
+          "When": {
+            "Language": "en",
+            "Relationship:Alex": "Divorced"
+            },
+          "Entries": {
+             "Alex": "%Alex is very pointedly talking to Haley and not acknowledging you."
+          }
+       },
+      
+      // SUMMER MOONLIGHT JELLIES
+
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/summer28",
+          "When": {
+            "Language": "en",
+            "Hearts:Alex": "4, 5, 6, 7, 8, 9, 10"
+            },
+          "Entries": {
+             "Alex": "Man, I'm not really looking forward to the cold weather.$s#$b#Oh well, at least summer gets a cool send-off!$h"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/summer28",
+          "When": {
+            "Language": "en",
+            "Relationship:Alex": "Dating"
+            },
+          "Entries": {
+             "Alex": "I never really thought about it, but I guess this is pretty romantic, huh?$l#$b#Oh, your hands are cold. I'll warm them up.$h"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/summer28",
+          "When": {
+            "Language": "en",
+            "Relationship:Alex": "Engaged"
+            },
+          "Entries": {
+             "Alex_spouse": "Nights like these get me thinking.#$b#About how much has changed for me, how far I've come... Where I'm going...$9#$b#I've got to be the luckiest guy in the world, to get to spend the future with you.$l"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/summer28",
+          "When": {
+            "Language": "en",
+            "Relationship:Alex": "Divorced"
+            },
+          "Entries": {
+             "Alex": "...$s"
+          }
+       },
+      
+      // FALL STARDEW VALLEY FAIR
+
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/fall16",
+          "When": {
+            "Language": "en",
+            "Hearts:Alex": "4, 5, 6, 7, 8, 9, 10"
+            },
+          "Entries": {
+             "Alex": "This might surprise you, but me and Haley are actually pretty good friends.#$b#Plus, she's definitely into me.$h"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/fall16",
+          "When": {
+            "Language": "en",
+            "Relationship:Alex": "Dating"
+            },
+          "Entries": {
+             "Alex": "Hey, babe.$l#$b#Want me to win you a stuffed animal? Not to brag but I'm pretty much an expert at all these carnival games.$h"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/fall16",
+          "When": {
+            "Language": "en",
+            "Relationship:Alex": "Engaged"
+            },
+          "Entries": {
+             "Alex_spouse": "I don't even need to win the strength game for you to love me, huh?$l#$b#Can't wait to marry you in a few days!$h"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/fall16",
+          "When": {
+            "Language": "en",
+            "Relationship:Alex": "Divorced"
+            },
+          "Entries": {
+             "Alex": "Excuse me, I'm talking to Haley right now.$a"
+          }
+       },
+      
+      // FALL SPIRIT'S EVE
+
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/fall27",
+          "When": {
+            "Language": "en",
+            "Hearts:Alex": "4, 5, 6, 7, 8, 9, 10"
+            },
+          "Entries": {
+             "Alex": "Hey, if you peek through the bushes, you can kinda see something sparkling.#$b#I'm no cheater, though. I'm going to find the right way to go...$9"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/fall27",
+          "When": {
+            "Language": "en",
+            "Relationship:Alex": "Dating"
+            },
+          "Entries": {
+             "Alex": "Are you scared? Here, I'll hold you.#$b#I won't let anything get you, babe.$l"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/fall27",
+          "When": {
+            "Language": "en",
+            "Relationship:Alex": "Engaged"
+            },
+          "Entries": {
+             "Alex_spouse": "What was that!?$7#$b#Oh, what? No, I'm not scared!$a#$b#Okay, I was a little scared.$h#$b#Let's hold hands, we can finish the maze together.$l"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/fall27",
+          "When": {
+            "Language": "en",
+            "Relationship:Alex": "Divorced"
+            },
+          "Entries": {
+             "Alex": "You really blew it, leaving me, you know that?$9#$b#Get lost.$a"
+          }
+       },
+      
+      // WINTER ICE FESTIVAL
+
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/winter8",
+          "When": {
+            "Language": "en",
+            "Hearts:Alex": "4, 5, 6, 7, 8, 9, 10"
+            },
+          "Entries": {
+             "Alex": "Ugh, I hate the cold. You can't do anything fun when it's cold out."
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/winter8",
+          "When": {
+            "Language": "en",
+            "Relationship:Alex": "Dating"
+            },
+          "Entries": {
+             "Alex": "Have you been to the hot springs yet? We should go some time. Good place to warm up.#$b#Plus, I bet you look cute in a swimsuit.$h"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/winter8",
+          "When": {
+            "Language": "en",
+            "Relationship:Alex": "Engaged"
+            },
+          "Entries": {
+             "Alex_spouse": "It might sound weird, but I'm really happy that Granny and Grandpa will be able to come to my wedding.#$b#It's something I've thought about a lot.$9#$b#It's weird when the only family you have are...probably not gonna be around for that much longer.$s#$b#I'm glad I'll have you by my side through everything life throws at me.$l"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/winter8",
+          "When": {
+            "Language": "en",
+            "Relationship:Alex": "Divorced"
+            },
+          "Entries": {
+             "Alex": "%Alex digs a rude word into the snow with the toe of his boot."
+          }
+       },
+      
+      // WINTER FEAST OF THE WINTER STAR
+
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/winter25",
+          "When": {
+            "Language": "en",
+            "Hearts:Alex": "4, 5, 6, 7, 8, 9, 10"
+            },
+          "Entries": {
+             "Alex": "Hey, @. What'd you get for Winter Star?#$b#I got this sick green jacket!$h#$b#What do you mean it looks just like my other jacket...?$9"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/winter25",
+          "When": {
+            "Language": "en",
+            "Relationship:Alex": "Dating"
+            },
+          "Entries": {
+             "Alex": "Hey, babe. I got you this necklace for Winter Star.$h#$b#This charm is a gridball, and this one is %favorite.$n#$b#And these letters spell out %firstnameletterlex. That's our couple name.$l"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/winter25",
+          "When": {
+            "Language": "en",
+            "Relationship:Alex": "Engaged"
+            },
+          "Entries": {
+             "Alex_spouse": "I just know this next year with you is going to be the best year of my life.$l#$b#Until the year after that, which is going to be even better!$h"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/winter25",
+          "When": {
+            "Language": "en",
+            "Relationship:Alex": "Divorced"
+            },
+          "Entries": {
+             "Alex": "...Hey, look...$s#$b#Have a nice holiday, okay?$n"
+          }
+       },
+      
+// ABIGAIL
+
+      // SPRING EGG FESTIVAL
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/spring13",
+          "When": {
+            "Language": "en",
+            "Hearts:Abigail": "4, 5, 6, 7, 8, 9, 10"
+            },
+          "Entries": {
+             "Abigail": "MAYOR LEWIS, SAM IS LOOKING AROUND FOR EGGS ALREADY!!$7#$b#We may be besties, but don't you try to cheat me out of my victory, Sammy boy.$a"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/spring13",
+          "When": {
+            "Language": "en",
+            "Relationship:Abigail": "Dating"
+            },
+          "Entries": {
+             "Abigail": "Hey, pumpkin.$l#$b#Don't go easy on me, 'cause I'm not going easy on you!$a#$b#Relax! I won't hurt ya.$h#$b#...as long as you stay out of my way.$6"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/spring13",
+          "When": {
+            "Language": "en",
+            "Relationship:Abigail": "Engaged"
+            },
+          "Entries": {
+             "Abigail_spouse": "I'm so nervous about the wedding I almost can't focus on this egg hunt!$l#$b#Almost.$n"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/spring13",
+          "When": {
+            "Language": "en",
+            "Relationship:Abigail": "Divorced"
+            },
+          "Entries": {
+             "Abigail": "Can you please not ruin this for me, too?$s"
+          }
+       },
+      
+      // SPRING FLOWER DANCE
+
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/spring24",
+          "When": {
+            "Language": "en",
+            "Hearts:Abigail": "4, 5, 6, 7, 8, 9, 10"
+            },
+          "Entries": {
+             "Abigail": "Ugh, I HATE these stupid dresses.$a#$b#I'm gonna look like a dweeb.$s"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/spring24",
+          "When": {
+            "Language": "en",
+            "Relationship:Abigail": "Dating"
+            },
+          "Entries": {
+             "Abigail": "Haha, look at us, we look like a couple squares!$h#$b#Oh well, at least we're in it together.$l"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/spring24",
+          "When": {
+            "Language": "en",
+            "Relationship:Abigail": "Engaged"
+            },
+          "Entries": {
+             "Abigail_spouse": "I'm not really in the mood to dance today.$s#$b#Welwick's horoscope wasn't great... I'm really worried about the wedding...$6#$b#You don't care about some old hag's horoscope?$n#$b#I love you too.$l"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/spring24",
+          "When": {
+            "Language": "en",
+            "Relationship:Abigail": "Married"
+            },
+          "Entries": {
+             "Abigail_spouse": "I don't hate this old-timey tradition quite so much anymore...$l"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/spring24",
+          "When": {
+            "Language": "en",
+            "Relationship:Abigail": "Divorced"
+            },
+          "Entries": {
+             "Abigail": "Who knew you'd figure out a way to haunt me while you're still alive?$a"
+          }
+       },
+      
+      // SUMMER LUAU
+
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/summer11",
+          "When": {
+            "Language": "en",
+            "Hearts:Abigail": "4, 5, 6, 7, 8, 9, 10"
+            },
+          "Entries": {
+             "Abigail": "Do you ever wonder about all the other places you could be? The other adventures you could be having...$s#$b#Whoops, sorry to bring down the mood.$h#$b#C'mon, let's get back to the party."
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/summer11",
+          "When": {
+            "Language": "en",
+            "Relationship:Abigail": "Dating"
+            },
+          "Entries": {
+             "Abigail": "Hey! Let's sneak away from this lameness and have an adventure!$l"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/summer11",
+          "When": {
+            "Language": "en",
+            "Relationship:Abigail": "Engaged"
+            },
+          "Entries": {
+             "Abigail_spouse": "Mom and I are going shopping for The Dress later.#$b#I don't really care, but it's important to her to help me with wedding stuff.$h#$b#She's pretty great. So are you.$l"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/summer11",
+          "When": {
+            "Language": "en",
+            "Relationship:Abigail": "Divorced"
+            },
+          "Entries": {
+             "Abigail": "%Abigail stares off into the sea, as if you're not even there."
+          }
+       },
+      
+      // SUMMER MOONLIGHT JELLIES
+
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/summer28",
+          "When": {
+            "Language": "en",
+            "Hearts:Abigail": "4, 5, 6, 7, 8, 9, 10"
+            },
+          "Entries": {
+             "Abigail": "This is my favorite part of summer.#$b#Makes it worth all the heat and sweating and sunburn and grossness.$h"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/summer28",
+          "When": {
+            "Language": "en",
+            "Relationship:Abigail": "Dating"
+            },
+          "Entries": {
+             "Abigail": "Can I tell you a secret?#$b#Every year I've watched the Moonlight Jellies and wished I was holding the hand of someone special.$s#$b#Guess you're a dream come true.$l"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/summer28",
+          "When": {
+            "Language": "en",
+            "Relationship:Abigail": "Engaged"
+            },
+          "Entries": {
+             "Abigail_spouse": "%Abigail hums a sweet tune and gives you a kiss."
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/summer28",
+          "When": {
+            "Language": "en",
+            "Relationship:Abigail": "Divorced"
+            },
+          "Entries": {
+             "Abigail": "...$s"
+          }
+       },
+      
+      // FALL STARDEW VALLEY FAIR
+
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/fall16",
+          "When": {
+            "Language": "en",
+            "Hearts:Abigail": "4, 5, 6, 7, 8, 9, 10"
+            },
+          "Entries": {
+             "Abigail": "@!$h#$b#I'm glad you're here! We are going to go get our fortunes read!$n"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/fall16",
+          "When": {
+            "Language": "en",
+            "Relationship:Abigail": "Dating"
+            },
+          "Entries": {
+             "Abigail": "I got my fortune read by the fortune teller earlier.#$b#I'm not telling you! It's a secret...$l"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/fall16",
+          "When": {
+            "Language": "en",
+            "Relationship:Abigail": "Engaged"
+            },
+          "Entries": {
+             "Abigail_spouse": "Look how beautiful everything is right now!$l#$b#We are going to have the most incredible wedding day.$h"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/fall16",
+          "When": {
+            "Language": "en",
+            "Relationship:Abigail": "Divorced"
+            },
+          "Entries": {
+             "Abigail": "I had my fortune told. You are NOT in my future.$u"
+          }
+       },
+      
+      // FALL SPIRIT'S EVE
+
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/fall27",
+          "When": {
+            "Language": "en",
+            "Hearts:Abigail": "4, 5, 6, 7, 8, 9, 10"
+            },
+          "Entries": {
+             "Abigail": "Oh, man. Oh MAN.$7#$b#I can't do it...$6#$b#Why spiders? Why couldn't it be follow the butterflies?$u"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/fall27",
+          "When": {
+            "Language": "en",
+            "Relationship:Abigail": "Dating"
+            },
+          "Entries": {
+             "Abigail": "Oh, boy am I glad to see you!$h#$b#Ahh... save me...?$l#$b#I'm sticking with you, pal.$h"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/fall27",
+          "When": {
+            "Language": "en",
+            "Relationship:Abigail": "Engaged"
+            },
+          "Entries": {
+             "Abigail_spouse": "Yeah. Nope.$6#$b#I'm just not doing it. I don't know why I even come into the maze anymore, there are always spiders.$u#$b#Win that prize for me, baby!#h"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/fall27",
+          "When": {
+            "Language": "en",
+            "Relationship:Abigail": "Divorced"
+            },
+          "Entries": {
+             "Abigail": "Ugh, caught between my two worst fears.$a"
+          }
+       },
+      
+      // WINTER ICE FESTIVAL
+
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/winter8",
+          "When": {
+            "Language": "en",
+            "Hearts:Abigail": "4, 5, 6, 7, 8, 9, 10"
+            },
+          "Entries": {
+             "Abigail": "What do you mean it's funny looking?$u#$b#It's a snow goon!$h"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/winter8",
+          "When": {
+            "Language": "en",
+            "Relationship:Abigail": "Dating"
+            },
+          "Entries": {
+             "Abigail": "Will you help me with my snowman?$l#$b#OOPS, did I accidentally throw snow in your face?$h#$b#SNOWBALL FIGHT!$7"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/winter8",
+          "When": {
+            "Language": "en",
+            "Relationship:Abigail": "Engaged"
+            },
+          "Entries": {
+             "Abigail_spouse": "No, no, no, that nose is all wrong.$u#$b#How do you expect our baby snow goon to make it out there in the mean old world with a nose like THAT?$h"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/winter8",
+          "When": {
+            "Language": "en",
+            "Relationship:Abigail": "Divorced"
+            },
+          "Entries": {
+             "Abigail": "%Abigail kicks her snow goon and walks away..."
+          }
+       },
+      
+      // WINTER FEAST OF THE WINTER STAR
+
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/winter25",
+          "When": {
+            "Language": "en",
+            "Hearts:Abigail": "4, 5, 6, 7, 8, 9, 10"
+            },
+          "Entries": {
+             "Abigail": "Happy holidays, @!"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/winter25",
+          "When": {
+            "Language": "en",
+            "Relationship:Abigail": "Dating"
+            },
+          "Entries": {
+             "Abigail": "Hi, pumpkin.$l#$b#I got you this %favorite for the Winter Star, because I know how much you love %favorite.$h"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/winter25",
+          "When": {
+            "Language": "en",
+            "Relationship:Abigail": "Engaged"
+            },
+          "Entries": {
+             "Abigail_spouse": "I'm getting the best gift, ever, this year.#$b#You!$h"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/winter25",
+          "When": {
+            "Language": "en",
+            "Relationship:Abigail": "Divorced"
+            },
+          "Entries": {
+             "Abigail": "Let's just not talk about it, huh?$6#$b#Happy Winter Star.$n"
+          }
+       },
+      
+// PENNY
+
+      // SPRING EGG FESTIVAL
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/spring13",
+          "When": {
+            "Language": "en",
+            "Hearts:Maru": "4, 5, 6, 7, 8, 9, 10"
+            },
+          "Entries": {
+             "Penny": "Oh hi! I was hoping to see you here!#$b#The egg hunt has been a tradition around here for a long time and I'm glad you wanted to participate.$n#$b#I usually root for the children, but it would be nice if someone besides Abigail won for a change.$h"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/spring13",
+          "When": {
+            "Language": "en",
+            "Relationship:Penny": "Dating"
+            },
+          "Entries": {
+             "Penny": "Hello, @.$l#$b#Are you participating in the egg hunt?$n#$b#The children have been so excited - you have some fierce competition this year!$h"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/spring13",
+          "When": {
+            "Language": "en",
+            "Relationship:Penny": "Engaged"
+            },
+          "Entries": {
+             "Penny_spouse": "What do you think about Maru being my bridesmaid?#$b#I agree, she's been such a dear friend. It'll be wonderful for her to be part of our big day!$h"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/spring13",
+          "When": {
+            "Language": "en",
+            "Relationship:Penny": "Divorced"
+            },
+          "Entries": {
+             "Penny": "Please, stay away from me. I don't want to start crying in front of the children.$s"
+          }
+       },
+      
+      // SPRING FLOWER DANCE
+
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/spring24",
+          "When": {
+            "Language": "en",
+            "Hearts:Maru": "4, 5, 6, 7, 8, 9, 10"
+            },
+          "Entries": {
+             "Penny": "Hello, @! Beautiful day today, isn't it?#$b#The air is so warm, it's perfect for dancing!$h"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/spring24",
+          "When": {
+            "Language": "en",
+            "Relationship:Penny": "Dating"
+            },
+          "Entries": {
+             "Penny": "I was nervous you wouldn't be here today.#$b#I don't think I want to dance with anybody else but you.$l"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/spring24",
+          "When": {
+            "Language": "en",
+            "Relationship:Penny": "Engaged"
+            },
+          "Entries": {
+             "Penny_spouse": "Hello there, honey! Care to take your future wife for a dance?$h#$b#We just have to be careful to not tire eachother too much for the wedding.$n"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/spring24",
+          "When": {
+            "Language": "en",
+            "Relationship:Penny": "Married"
+            },
+          "Entries": {
+             "Penny_spouse": "I used to be so nervous at this festival, but it's all so much more beautiful when shared with you.#$b#I love you!$l"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/spring24",
+          "When": {
+            "Language": "en",
+            "Relationship:Penny": "Divorced"
+            },
+          "Entries": {
+             "Penny": "I... I don't want to be here, in the same place as you.$u#$b#I want to go home. I want to be alone in my room.$s"
+          }
+       },
+      
+      // SUMMER LUAU
+
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/summer11",
+          "When": {
+            "Language": "en",
+            "Hearts:Maru": "4, 5, 6, 7, 8, 9, 10"
+            },
+          "Entries": {
+             "Penny": "Hello, @!#$b#Sam and I were just admiring the tide pools. When we were younger we used to go and collect shells and touch the anemones.$l#$e#I miss those days...$u"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/summer11",
+          "When": {
+            "Language": "en",
+            "Relationship:Penny": "Dating"
+            },
+          "Entries": {
+             "Penny": "I love our charming small-town traditions, even if they may seem strange to outsiders.#$b#I'm glad you're here, now, to share in them.$l"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/summer11",
+          "When": {
+            "Language": "en",
+            "Relationship:Penny": "Engaged"
+            },
+          "Entries": {
+             "Penny_spouse": "What did you bring for the soup, darling?#$e#Something good, I hope!$h#$b#We want everyone to be happy for our wedding!$l"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/summer11",
+          "When": {
+            "Language": "en",
+            "Relationship:Penny": "Divorced"
+            },
+          "Entries": {
+             "Penny": "*sigh*$u#$b#I'm afraid the soup will taste bitter to me, no matter what is put in it.$s"
+          }
+       },
+      
+      // SUMMER MOONLIGHT JELLIES
+
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/summer28",
+          "When": {
+            "Language": "en",
+            "Hearts:Maru": "4, 5, 6, 7, 8, 9, 10"
+            },
+          "Entries": {
+             "Penny": "The ocean is so beautiful at night, don't you think?#$b#And the jellies will make it all even prettier when they arrive!$h"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/summer28",
+          "When": {
+            "Language": "en",
+            "Relationship:Penny": "Dating"
+            },
+          "Entries": {
+             "Penny": "Hi, @.#$b#It will be hard for me to focus on the jellies with you around. You look wonderful tonight.$l"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/summer28",
+          "When": {
+            "Language": "en",
+            "Relationship:Penny": "Engaged"
+            },
+          "Entries": {
+             "Penny_spouse": "If timing had worked out a little better, I might have planned our wedding ceremony for tonight.#$b#Imagine it - celebrating our love under such a clear, beautiful starry sky, surrounded by the glow of the jellies.$l#$b#Oh, no, darling. I don't regret a thing! Our day will still be perfect.$h"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/summer28",
+          "When": {
+            "Language": "en",
+            "Relationship:Penny": "Married"
+            },
+          "Entries": {
+             "Penny_spouse": "Hope you don't mind me snuggling up to you when the jellies come.$h#$b#I never thought I would see something more beautiful than them, yet here you are to outshine them.$l"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/summer28",
+          "When": {
+            "Language": "en",
+            "Relationship:Penny": "Divorced"
+            },
+          "Entries": {
+             "Penny": "Maybe if I wish really hard they'll take me with them.$s"
+          }
+       },
+      
+      // FALL STARDEW VALLEY FAIR
+
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/fall16",
+          "When": {
+            "Language": "en",
+            "Hearts:Maru": "4, 5, 6, 7, 8, 9, 10"
+            },
+          "Entries": {
+             "Penny": "Hello @!#$b#Can't wait to see what you've brough for your display, I bet it will be impressive!$h"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/fall16",
+          "When": {
+            "Language": "en",
+            "Relationship:Penny": "Dating"
+            },
+          "Entries": {
+             "Penny": "I'm so happy you're here!$l#$#Would you like to play some fair games together, or walk over to the petting zoo?$n"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/fall16",
+          "When": {
+            "Language": "en",
+            "Relationship:Penny": "Engaged"
+            },
+          "Entries": {
+             "Penny_spouse": "You know, the fall before you arrived, I visited the fortune teller's tent on a whim. She foretold that I would soon meet someone wonderful who would change my life forever.#$b#I don't usually believe in such things, but here we are!$h#$b#I couldn't be happier.$l"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/fall16",
+          "When": {
+            "Language": "en",
+            "Relationship:Penny": "Divorced"
+            },
+          "Entries": {
+             "Penny": "%Penny suddenly looks like she'd rather be anywhere else."
+          }
+       },
+      
+      // FALL SPIRIT'S EVE
+
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/fall27",
+          "When": {
+            "Language": "en",
+            "Hearts:Maru": "4, 5, 6, 7, 8, 9, 10"
+            },
+          "Entries": {
+             "Penny": "Hello, @.$h#$b#How are you liking the maze?$n#$b#I was... doing something. Now I can't... I can't remember what.... hmm.$u"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/fall27",
+          "When": {
+            "Language": "en",
+            "Relationship:Penny": "Dating"
+            },
+          "Entries": {
+             "Penny": "Oh, hello, @. I was hoping you would come this way. I seem to be lost.#$b#Perhaps we could continue the maze together?$h#$b#Nothing like seeing you to make the chilly night a little bit warmer.$l"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/fall27",
+          "When": {
+            "Language": "en",
+            "Relationship:Penny": "Engaged"
+            },
+          "Entries": {
+             "Penny_spouse": "Have you come to rescue your soon-to-be bride from the maws of this dreadful maze, oh my beloved?$l#$b#*giggles*$h"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/fall27",
+          "When": {
+            "Language": "en",
+            "Relationship:Penny": "Divorced"
+            },
+          "Entries": {
+             "Penny": "I felt a chill running down my spine, now I know why. I should've hidden better.$n#$b#I always ruin it.$a"
+          }
+       },
+      
+      // WINTER ICE FESTIVAL
+
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/winter8",
+          "When": {
+            "Language": "en",
+            "Hearts:Maru": "4, 5, 6, 7, 8, 9, 10"
+            },
+          "Entries": {
+             "Penny": "It's so cold out here, but I didn't wanted to miss the chance to play in the snow with the children!#$b#You're always welcome to make a snowman with us if you are not participating in the fishing contest.$h"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/winter8",
+          "When": {
+            "Language": "en",
+            "Relationship:Penny": "Dating"
+            },
+          "Entries": {
+             "Penny": "Don't tell my mom, but I'll be rooting for you to win the ice fishing competition!$h"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/winter8",
+          "When": {
+            "Language": "en",
+            "Relationship:Penny": "Engaged"
+            },
+          "Entries": {
+             "Penny_spouse": "I'm working with Emily to make a beautiful gown with nice, warm, long sleeves.#$b#Oh, I know I shouldn't be telling you about it, but I'm just so excited!$h#$b#It's going to be such a beautiful wedding. I hope it snows on the day!$l"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/winter8",
+          "When": {
+            "Language": "en",
+            "Relationship:Penny": "Divorced"
+            },
+          "Entries": {
+             "Penny": "Don't talk to me, don't look at me.$a#$b#The cold is painful enough without your presence.$s"
+          }
+       },
+      
+      // WINTER FEAST OF THE WINTER STAR
+
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/winter25",
+          "When": {
+            "Language": "en",
+            "Hearts:Maru": "4, 5, 6, 7, 8, 9, 10"
+            },
+          "Entries": {
+             "Penny": "Oh, I just love seeing everyone in the holiday spirit!#$b#Did you get what you wanted, this year?$n#$b#I wouldn't mind more books!$h"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/winter25",
+          "When": {
+            "Language": "en",
+            "Relationship:Penny": "Dating"
+            },
+          "Entries": {
+             "Penny": "The holidays can be a sad time of year, sometimes.#$b#I'm thankful I get to spend this holiday with you!$h#$b#And I'm looking forward to cuddling with you and a mug of hot chocolate by the fireside tonight. I couldn't think of a better Winter Star gift.$l"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/winter25",
+          "When": {
+            "Language": "en",
+            "Relationship:Penny": "Engaged"
+            },
+          "Entries": {
+             "Penny_spouse": "You've already given me the most beautiful gift.$n#$b#Soon, we'll be blissfully married.$h#$b#I can't wait to spend the rest of my holidays with you.$l"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/winter25",
+          "When": {
+            "Language": "en",
+            "Relationship:Penny": "Married"
+            },
+          "Entries": {
+             "Penny_spouse": "Oh, my love! You know all I want for Winter Star is you.#$b#And maybe a kiss under the mistletoe.$l"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/winter25",
+          "When": {
+            "Language": "en",
+            "Relationship:Penny": "Divorced"
+            },
+          "Entries": {
+             "Penny": "@...$u#$b#You know how I feel about the holidays.$u#$b#Let's make our peace tonight, and enjoy what we can of our holiday celebrations.$n"
+          }
+       },
+      
+// ELLIOTT
+
+      // SPRING EGG FESTIVAL
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/spring13",
+          "When": {
+            "Language": "en",
+            "Hearts:Elliott": "4, 5, 6, 7, 8, 9, 10"
+            },
+          "Entries": {
+             "Elliott": "Good morning, @. I hope you're enjoying this beautiful spring weather!#$b#It's such a joy to watch the seasons change here in the valley.$h"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/spring13",
+          "When": {
+            "Language": "en",
+            "Relationship:Elliott": "Dating"
+            },
+          "Entries": {
+             "Elliott": "Will you be participating in the egg hunt, my dear?#$#I'll be here rooting for you!$l"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/spring13",
+          "When": {
+            "Language": "en",
+            "Relationship:Elliott": "Engaged"
+            },
+          "Entries": {
+             "Elliott_spouse": "What was that...?$7#$b#I'm sorry my love, I was lost in thoughts of pink petals floating from their trees as we say our marriage vows...$l"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/spring13",
+          "When": {
+            "Language": "en",
+            "Relationship:Elliott": "Divorced"
+            },
+          "Entries": {
+             "Elliott": "I had once worried I would end up a lonely hermit in that dank cabin on the beach...$7#$b#Yet nothing could have prepared me for the real sorrow I have felt at your hands.$s"
+          }
+       },
+      
+      // SPRING FLOWER DANCE
+
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/spring24",
+          "When": {
+            "Language": "en",
+            "Hearts:Elliott": "4, 5, 6, 7, 8, 9, 10"
+            },
+          "Entries": {
+             "Elliott": "A dance is a wonderful way to take a break from hard work and let loose!$h#$b#Have you found your ideal dance partner, @?$n"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/spring24",
+          "When": {
+            "Language": "en",
+            "Relationship:Elliott": "Dating"
+            },
+          "Entries": {
+             "Elliott": "I'll be delighted if you'll be my partner for the Flower Dance, my darling.$l"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/spring24",
+          "When": {
+            "Language": "en",
+            "Relationship:Elliott": "Engaged"
+            },
+          "Entries": {
+             "Elliott_spouse": "Is it awful that I can't seem to concentrate on even the most simple dance steps at the moment?#$b#I have been up late nights working on our marriage vows. I know they're just words, but words are important to me...$7#$b#I have to find just the right words to express the unfathomable depth of love I feel for you.$l#$b#But I know all will be well once we are wed.$h"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/spring24",
+          "When": {
+            "Language": "en",
+            "Relationship:Elliott": "Divorced"
+            },
+          "Entries": {
+             "Elliott": "%Elliott doesn't acknowledge your presence."
+          }
+       },
+      
+      // SUMMER LUAU
+
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/summer11",
+          "When": {
+            "Language": "en",
+            "Hearts:Elliott": "4, 5, 6, 7, 8, 9, 10"
+            },
+          "Entries": {
+             "Elliott": "It's not a good day for getting writing done, I'll admit.#$b#But I don't mind stepping out to find a party at my door! We all need a break now and then, anyhow.$h"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/summer11",
+          "When": {
+            "Language": "en",
+            "Relationship:Elliott": "Dating"
+            },
+          "Entries": {
+             "Elliott": "My, but you look radiant in this sunlight.$l#$b#Would you like to stay after the rest are gone and go for a swim with me? The sea looks so inviting, today."
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/summer11",
+          "When": {
+            "Language": "en",
+            "Relationship:Elliott": "Engaged"
+            },
+          "Entries": {
+             "Elliott_spouse": "I think we should have our ceremony down here on the beach, don't you?#$b#Too sandy? Oh, I hadn't thought of that...$7#$b#Well, anywhere I get to marry you will be the perfect place.$l"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/summer11",
+          "When": {
+            "Language": "en",
+            "Relationship:Elliott": "Divorced"
+            },
+          "Entries": {
+             "Elliott": "Lovely day to go bother someone else, don't you think?$a"
+          }
+       },
+      
+      // SUMMER MOONLIGHT JELLIES
+
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/summer28",
+          "When": {
+            "Language": "en",
+            "Hearts:Elliott": "4, 5, 6, 7, 8, 9, 10"
+            },
+          "Entries": {
+             "Elliott": "When I moved here, I had no idea what beauty awaited me!$h#$b#It's such a blessing to live in a place thus far uncorrupted by the downsides of modern society.$n"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/summer28",
+          "When": {
+            "Language": "en",
+            "Relationship:Elliott": "Dating"
+            },
+          "Entries": {
+             "Elliott": "My dear @, aren't you cold?$7#$b#If you like, come back to my cabin after the jellies have gone for a late night cup of coffee.$h#$b#We can snuggle up and read together.$l"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/summer28",
+          "When": {
+            "Language": "en",
+            "Relationship:Elliott": "Engaged"
+            },
+          "Entries": {
+             "Elliott_spouse": "Come closer, my beloved.$h#$b#This is one of our last nights before The Big Day. Let us cherish the moment. *kiss*$l"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/summer28",
+          "When": {
+            "Language": "en",
+            "Relationship:Elliott": "Divorced"
+            },
+          "Entries": {
+             "Elliott": "...$s"
+          }
+       },
+      
+      // FALL STARDEW VALLEY FAIR
+
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/fall16",
+          "When": {
+            "Language": "en",
+            "Hearts:Elliott": "4, 5, 6, 7, 8, 9, 10"
+            },
+          "Entries": {
+             "Elliott": "Hello, @! Have you tried Gus' barbecue, yet?#$b#I think I'm in love...$h"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/fall16",
+          "When": {
+            "Language": "en",
+            "Relationship:Elliott": "Dating"
+            },
+          "Entries": {
+             "Elliott": "Ah, @, I was hoping I'd find you here.$h#$b#Shall we wander holding hands and admiring the sights, as lovers do?$l"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/fall16",
+          "When": {
+            "Language": "en",
+            "Relationship:Elliott": "Engaged"
+            },
+          "Entries": {
+             "Elliott_spouse": "I knew that moving here would change me.#$b#I never dreamed it would lead me to you.$l#$b#I couldn't possibly imagine myself happier than I am right now."
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/fall16",
+          "When": {
+            "Language": "en",
+            "Relationship:Elliott": "Divorced"
+            },
+          "Entries": {
+             "Elliott": "I would appreciate being allowed to enjoy my barbecue sandwich in peace, thank you.$a"
+          }
+       },
+      
+      // FALL SPIRIT'S EVE
+
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/fall27",
+          "When": {
+            "Language": "en",
+            "Hearts:Elliott": "4, 5, 6, 7, 8, 9, 10"
+            },
+          "Entries": {
+             "Elliott": "This pumpkin ale is to die for!#$b#Why don't you try some? I can teach you a few drinking songs I know.$h"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/fall27",
+          "When": {
+            "Language": "en",
+            "Relationship:Elliott": "Dating"
+            },
+          "Entries": {
+             "Elliott": "I don't usually find myself wandering into the haunted maze.#$b#But if you'd like to try it, I'd be honored to accompany you.$l"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/fall27",
+          "When": {
+            "Language": "en",
+            "Relationship:Elliott": "Engaged"
+            },
+          "Entries": {
+             "Elliott_spouse": "Ah, you've got a leaf in your hair, my love. The color suits you.#$b#That color on your cheeks is even better!$h#$b#It's been a wonderful festival, but I'm rather eager to spend some alone time with you.$l"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/fall27",
+          "When": {
+            "Language": "en",
+            "Relationship:Elliott": "Divorced"
+            },
+          "Entries": {
+             "Elliott": "%Elliott looks like he's had quite a bit of that pumpkin ale. Better leave him alone."
+          }
+       },
+      
+      // WINTER ICE FESTIVAL
+
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/winter8",
+          "When": {
+            "Language": "en",
+            "Hearts:Elliott": "4, 5, 6, 7, 8, 9, 10"
+            },
+          "Entries": {
+             "Elliott": "My friend, it will be an honor to compete against you in this year's fishing competition.#$b#But I will not go easy on you.$h"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/winter8",
+          "When": {
+            "Language": "en",
+            "Relationship:Elliott": "Dating"
+            },
+          "Entries": {
+             "Elliott": "I do enjoy these events, but this cold makes me long only for a hot cup of coffee and the warmth of your embrace.$l"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/winter8",
+          "When": {
+            "Language": "en",
+            "Relationship:Elliott": "Engaged"
+            },
+          "Entries": {
+             "Elliott_spouse": "...Oh?$#$b#I'm sorry, I'm afraid I won't be any good in the fishing competition this year.$h#$b#I'm entirely distracted by the thought of perfect snowflakes in your hair as we say our 'I Do's.$l"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/winter8",
+          "When": {
+            "Language": "en",
+            "Relationship:Elliott": "Divorced"
+            },
+          "Entries": {
+             "Elliott": "...$a"
+          }
+       },
+      
+      // WINTER FEAST OF THE WINTER STAR
+
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/winter25",
+          "When": {
+            "Language": "en",
+            "Hearts:Elliott": "4, 5, 6, 7, 8, 9, 10"
+            },
+          "Entries": {
+             "Elliott": "I think it might've been wiser to hold this feast inside Gus' saloon.$h#$b#Ah, well. The cold never bothered me, anyway.$n"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/winter25",
+          "When": {
+            "Language": "en",
+            "Relationship:Elliott": "Dating"
+            },
+          "Entries": {
+             "Elliott": "Bright, joyous beauty of holiday tree's light, thine winter flame doth flicker next to @'s delight.$l"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/winter25",
+          "When": {
+            "Language": "en",
+            "Relationship:Elliott": "Engaged"
+            },
+          "Entries": {
+             "Elliott_spouse": "Admittedly, it'll be a nice Winter Star gift to move into the farmhouse after we're married.#$b#Much as I love it, it's quite drafty in my little cabin by the sea.$h#$b#I'll be spending my nights warmly in your arms, soon enough, my love.$l"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/winter25",
+          "When": {
+            "Language": "en",
+            "Relationship:Elliott": "Divorced"
+            },
+          "Entries": {
+             "Elliott": "Winter Star is a time for compassion and thanksgiving...$7#$b#And forgiveness.$n"
+          }
+       }
+      
+    ]
+}

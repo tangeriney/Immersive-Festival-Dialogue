@@ -1,0 +1,13 @@
+{
+   "Name": "Immersive Festival Dialogue",
+   "Author": "tangeriney",
+   "Version": "0.9.0",
+   "Description": "Changes character dialogue during festivals based on relationship status.",
+   "UniqueID": "tangeriney.FestivalDialogue",
+   "MinimumApiVersion": "2.0",
+   "UpdateKeys": [ "Nexus:2612" ],
+   "ContentPackFor": {
+      "UniqueID": "Pathoschild.ContentPatcher", // the ID of required mod
+      "MinimumVersion": "1.3.0" // optional
+   }
+}
