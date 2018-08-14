@@ -2983,7 +2983,7 @@
           "Target": "Data/Festivals/spring13",
           "When": {
             "Language": "en",
-            "Hearts:Maru": "4, 5, 6, 7, 8, 9, 10"
+            "Hearts:Penny": "4, 5, 6, 7, 8, 9, 10"
             },
           "Entries": {
              "Penny": "Oh hi! I was hoping to see you here!#$b#The egg hunt has been a tradition around here for a long time and I'm glad you wanted to participate.$n#$b#I usually root for the children, but it would be nice if someone besides Abigail won for a change.$h"
@@ -3033,7 +3033,7 @@
           "Target": "Data/Festivals/spring24",
           "When": {
             "Language": "en",
-            "Hearts:Maru": "4, 5, 6, 7, 8, 9, 10"
+            "Hearts:Penny": "4, 5, 6, 7, 8, 9, 10"
             },
           "Entries": {
              "Penny": "Hello, @! Beautiful day today, isn't it?#$b#The air is so warm, it's perfect for dancing!$h"
@@ -3095,7 +3095,7 @@
           "Target": "Data/Festivals/summer11",
           "When": {
             "Language": "en",
-            "Hearts:Maru": "4, 5, 6, 7, 8, 9, 10"
+            "Hearts:Penny": "4, 5, 6, 7, 8, 9, 10"
             },
           "Entries": {
              "Penny": "Hello, @!#$b#Sam and I were just admiring the tide pools. When we were younger we used to go and collect shells and touch the anemones.$l#$e#I miss those days...$u"
@@ -3145,7 +3145,7 @@
           "Target": "Data/Festivals/summer28",
           "When": {
             "Language": "en",
-            "Hearts:Maru": "4, 5, 6, 7, 8, 9, 10"
+            "Hearts:Penny": "4, 5, 6, 7, 8, 9, 10"
             },
           "Entries": {
              "Penny": "The ocean is so beautiful at night, don't you think?#$b#And the jellies will make it all even prettier when they arrive!$h"
@@ -3207,7 +3207,7 @@
           "Target": "Data/Festivals/fall16",
           "When": {
             "Language": "en",
-            "Hearts:Maru": "4, 5, 6, 7, 8, 9, 10"
+            "Hearts:Penny": "4, 5, 6, 7, 8, 9, 10"
             },
           "Entries": {
              "Penny": "Hello @!#$b#Can't wait to see what you've brough for your display, I bet it will be impressive!$h"
@@ -3257,7 +3257,7 @@
           "Target": "Data/Festivals/fall27",
           "When": {
             "Language": "en",
-            "Hearts:Maru": "4, 5, 6, 7, 8, 9, 10"
+            "Hearts:Penny": "4, 5, 6, 7, 8, 9, 10"
             },
           "Entries": {
              "Penny": "Hello, @.$h#$b#How are you liking the maze?$n#$b#I was... doing something. Now I can't... I can't remember what.... hmm.$u"
@@ -3307,7 +3307,7 @@
           "Target": "Data/Festivals/winter8",
           "When": {
             "Language": "en",
-            "Hearts:Maru": "4, 5, 6, 7, 8, 9, 10"
+            "Hearts:Penny": "4, 5, 6, 7, 8, 9, 10"
             },
           "Entries": {
              "Penny": "It's so cold out here, but I didn't wanted to miss the chance to play in the snow with the children!#$b#You're always welcome to make a snowman with us if you are not participating in the fishing contest.$h"
@@ -3357,7 +3357,7 @@
           "Target": "Data/Festivals/winter25",
           "When": {
             "Language": "en",
-            "Hearts:Maru": "4, 5, 6, 7, 8, 9, 10"
+            "Hearts:Penny": "4, 5, 6, 7, 8, 9, 10"
             },
           "Entries": {
              "Penny": "Oh, I just love seeing everyone in the holiday spirit!#$b#Did you get what you wanted, this year?$n#$b#I wouldn't mind more books!$h"
