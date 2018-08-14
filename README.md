@@ -31,6 +31,7 @@ We'll see if I ever get there.
 
 ## Updates
 
+- 08/14/2018 - ver. 0.10.1 - Fixed incorrect "friendly" dialogue selector for Penny
 - 08/14/2018 - ver. 0.10.0 - Added Shane's dialogue
 - 08/13/2018 - Immersive Festival Dialogue is now on GitHub!
 - 08/13/2018 - ver. 0.9.0 - Added Elliott's dialogue
