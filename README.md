@@ -49,7 +49,7 @@ We'll see if I ever get there.
 
 ## Download & Installation
 
-**Download 0.9.0 - The Elliott Update**  
+**Download 0.11.0 - The Emily Update**  
 [Click here to download at Nexus Mods!](https://www.nexusmods.com/stardewvalley/mods/2612)
 
 **How To Install:**  
