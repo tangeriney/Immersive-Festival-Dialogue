@@ -4602,7 +4602,7 @@
             "Relationship:Emily": "Engaged"
             },
           "Entries": {
-             "Emily_spouse": "Winter Star is a wonderful time for family.$l#$b#I'm so pleased that you'll soon be part of mine!$h"
+             "Emily_spouse": "Even though we don't always get along, it's realy important for Haley and I to spend time together, especially around the holidays.#$b#I'm so pleased that you'll soon be part of our little family!$l"
           }
        },
       
@@ -4615,6 +4615,408 @@
             },
           "Entries": {
              "Emily": "@, it's Winter Star, and...$s#$b#Well, I know we've had our differences...but I just wanted to wish you a happy holiday.$u"
+          }
+       },
+    
+// Haley
+
+      // SPRING EGG FESTIVAL
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/spring13",
+          "When": {
+            "Language": "en",
+            "Hearts:Haley": "4, 5, 6, 7, 8, 9, 10"
+            },
+          "Entries": {
+             "Haley": "Hi, @. Are you hunting for eggs this year?#$b#I helped Emily paint some of them.$n#$b#It was messy, but fun!$h"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/spring13",
+          "When": {
+            "Language": "en",
+            "Relationship:Haley": "Dating"
+            },
+          "Entries": {
+             "Haley": "I'll be rooting for you in the egg hunt, @!$n#$b#When it's over, we can sit together and share the chocolate from the eggs.$l#$b#Get lots of eggs!$h"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/spring13",
+          "When": {
+            "Language": "en",
+            "Relationship:Haley": "Engaged"
+            },
+          "Entries": {
+             "Haley_spouse": "Hi sweetie! I was just telling Alex about how beautiful our wedding is gonna be!$n#$b#I'm probably boring him, but I don't really care!#$h#I'm just so excited!$11"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/spring13",
+          "When": {
+            "Language": "en",
+            "Relationship:Haley": "Divorced"
+            },
+          "Entries": {
+             "Haley": "Oh, great. What do you want?$u"
+          }
+       },
+      
+      // SPRING FLOWER DANCE
+
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/spring24",
+          "When": {
+            "Language": "en",
+            "Hearts:Haley": "4, 5, 6, 7, 8, 9, 10"
+            },
+          "Entries": {
+             "Haley": "Hi, @. I'm just practicing my dance moves.$h#$b#I've pretty much already perfected it, but I don't want to be too sure of myself and forget something.$n#$b#That would be so emarrassing!$s"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/spring24",
+          "When": {
+            "Language": "en",
+            "Relationship:Haley": "Dating"
+            },
+          "Entries": {
+             "Haley": "Oh, you are so lucky you get to dance with me this year! You're in the presence of Flower Dance royalty, you know!$h#$b#I'm pretty excited to dance with you, too.$l"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/spring24",
+          "When": {
+            "Language": "en",
+            "Relationship:Haley": "Engaged"
+            },
+          "Entries": {
+             "Haley_spouse": "Emily is making me the most beautiful dress for our wedding!$n#$b##ait until you see!$h#$b#Now, dance with me, my love. Soon you'll be my Flower King^Now, dance with me, my love. Soon you'll be MY Flower Queen.$l"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/spring24",
+          "When": {
+            "Language": "en",
+            "Relationship:Haley": "Divorced"
+            },
+          "Entries": {
+             "Haley": "Can't you see I'm trying to dance here? Get out of my way!$a"
+          }
+       },
+      
+      // SUMMER LUAU
+
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/summer11",
+          "When": {
+            "Language": "en",
+            "Hearts:Haley": "4, 5, 6, 7, 8, 9, 10"
+            },
+          "Entries": {
+             "Haley": "Wow, isn't it such a beautiful day for a party?$h#$b#Alex is looking cute to me today. What do you think?$n"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/summer11",
+          "When": {
+            "Language": "en",
+            "Relationship:Haley": "Dating"
+            },
+          "Entries": {
+             "Haley": "Hi! I was hoping you'd come find me.$l#$b#Wanna dance?$n"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/summer11",
+          "When": {
+            "Language": "en",
+            "Relationship:Haley": "Engaged"
+            },
+          "Entries": {
+             "Haley_spouse": "Look how the sun sparkles on the water out there.$l#$b#I don't really believe in all that woo-woo like my sister...$7#$b#...but it feels like a good omen!$h"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/summer11",
+          "When": {
+            "Language": "en",
+            "Relationship:Haley": "Divorced"
+            },
+          "Entries": {
+             "Haley": "%Haley appears to be very involved in her conversation with Alex. She touches his shoulder and laughs at everything he says, and only glances at you occasionally."
+          }
+       },
+      
+      // SUMMER MOONLIGHT JELLIES
+
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/summer28",
+          "When": {
+            "Language": "en",
+            "Hearts:Haley": "4, 5, 6, 7, 8, 9, 10"
+            },
+          "Entries": {
+             "Haley": "When I was a little girl, I used to dream of being a mermaid.$n#$b#I know, isn't that so cliché.$h#$b#Still... It's nice to dream.$11"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/summer28",
+          "When": {
+            "Language": "en",
+            "Relationship:Haley": "Dating"
+            },
+          "Entries": {
+             "Haley": "Aw, the jellies don't show up very well on camera.$s#$b#I guess there's something special about that, huh? Something you can only see with your own eyes...$n#$b#I'll just take pictures of you, instead. Can never have too many of those!$l"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/summer28",
+          "When": {
+            "Language": "en",
+            "Relationship:Haley": "Engaged"
+            },
+          "Entries": {
+             "Haley_spouse": "Isn't this romantic?$h#$b#I never dreamed I'd be so happy in this town, but here we are together, watching the Moonlight Jellies...$n#$b#...and everything feels right.$l"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/summer28",
+          "When": {
+            "Language": "en",
+            "Relationship:Haley": "Divorced"
+            },
+          "Entries": {
+             "Haley": "...$s"
+          }
+       },
+      
+      // FALL STARDEW VALLEY FAIR
+
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/fall16",
+          "When": {
+            "Language": "en",
+            "Hearts:Haley": "4, 5, 6, 7, 8, 9, 10"
+            },
+          "Entries": {
+             "Haley": "I really want some cotton candy, but I'm on a diet...$s#$b#Hey, if we share one it's only half the calories, right?$h"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/fall16",
+          "When": {
+            "Language": "en",
+            "Relationship:Haley": "Dating"
+            },
+          "Entries": {
+             "Haley": "That big pink stuffed bunny is so cuuute, isn't it, babe?#$b#I wish I could win one, but I'm no good at these games...$s#$b#Maybe you could try?$l"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/fall16",
+          "When": {
+            "Language": "en",
+            "Relationship:Haley": "Engaged"
+            },
+          "Entries": {
+             "Haley_spouse": "I really hope it's not windy on our wedding day. I wouldn't want to get any of these yucky dead leaves stuck in my hair...$7#$b#Oh well, it'll be worth it to be married to you, anyway!$l"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/fall16",
+          "When": {
+            "Language": "en",
+            "Relationship:Haley": "Divorced"
+            },
+          "Entries": {
+             "Haley": "Oh, can't you just leave me alone? Haven't you broken my heart enough already?$s"
+          }
+       },
+      
+      // FALL SPIRIT'S EVE
+
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/fall27",
+          "When": {
+            "Language": "en",
+            "Hearts:Haley": "4, 5, 6, 7, 8, 9, 10"
+            },
+          "Entries": {
+             "Haley": "I don't really see why people like Spirit's Eve so much...$7#$b#One year, Emily dressed up as a Shadow Shaman and jumped out and scared me!$u#$b#I just don't get how that's funny.$a"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/fall27",
+          "When": {
+            "Language": "en",
+            "Relationship:Haley": "Dating"
+            },
+          "Entries": {
+             "Haley": "Oh, I'm so glad you're here. Have you seen my sister around?#$b#I think she's trying to scare me again...$s#$b#C-can I just hold on to you for a little bit?$l"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/fall27",
+          "When": {
+            "Language": "en",
+            "Relationship:Haley": "Engaged"
+            },
+          "Entries": {
+             "Haley_spouse": "Oh, I hate this stupid spook-fest!$u#$b#There's always someone trying to jump out at you. It's just rude!$a"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/fall27",
+          "When": {
+            "Language": "en",
+            "Relationship:Haley": "Divorced"
+            },
+          "Entries": {
+             "Haley": "You scared me!$8#$b#Oh, well, what else is new?$s"
+          }
+       },
+      
+      // WINTER ICE FESTIVAL
+
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/winter8",
+          "When": {
+            "Language": "en",
+            "Hearts:Haley": "4, 5, 6, 7, 8, 9, 10"
+            },
+          "Entries": {
+             "Haley": "Well, I don't like the cold, but at least the snow is pretty!"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/winter8",
+          "When": {
+            "Language": "en",
+            "Relationship:Haley": "Dating"
+            },
+          "Entries": {
+             "Haley": "Hey, wanna make snow angels?#$b#Is that silly?$h"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/winter8",
+          "When": {
+            "Language": "en",
+            "Relationship:Haley": "Engaged"
+            },
+          "Entries": {
+             "Haley_spouse": "Here, sweetie, I brought you a thermos of my special peppermint coffee to keep you warm!#$b#Not as good as one from Jojabucks Coffee, but still pretty great!$h"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/winter8",
+          "When": {
+            "Language": "en",
+            "Relationship:Haley": "Divorced"
+            },
+          "Entries": {
+             "Haley": "I should have stayed home...$s"
+          }
+       },
+      
+      // WINTER FEAST OF THE WINTER STAR
+
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/winter25",
+          "When": {
+            "Language": "en",
+            "Hearts:Haley": "4, 5, 6, 7, 8, 9, 10"
+            },
+          "Entries": {
+             "Haley": "Don't tell him, but I got Alex for Secret Santa.#$b#I can't wait to give him his gift...$l"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/winter25",
+          "When": {
+            "Language": "en",
+            "Relationship:Haley": "Dating"
+            },
+          "Entries": {
+             "Haley": "Happy Winter Star, sweetie!$l#$b#Look, I got us matching bracelets that say %firstnameletterley.$n#$b#That's our couple name.$h"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/winter25",
+          "When": {
+            "Language": "en",
+            "Relationship:Haley": "Engaged"
+            },
+          "Entries": {
+             "Haley_spouse": "I'm grateful for these fabulous new winter boots Emily got me!#$b#And for you, of course.$h"
+          }
+       },
+      
+       {
+          "Action": "EditData",
+          "Target": "Data/Festivals/winter25",
+          "When": {
+            "Language": "en",
+            "Relationship:Haley": "Divorced"
+            },
+          "Entries": {
+             "Haley": "...$7"
           }
        }
       
