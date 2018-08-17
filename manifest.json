@@ -1,7 +1,7 @@
 {
    "Name": "Immersive Festival Dialogue",
    "Author": "tangeriney",
-   "Version": "0.10.1",
+   "Version": "0.11.0",
    "Description": "Changes character dialogue during festivals based on relationship status.",
    "UniqueID": "tangeriney.FestivalDialogue",
    "MinimumApiVersion": "2.0",

@@ -15,9 +15,10 @@ A Stardew Valley Content Patcher mod that adds dialogue for characters during fe
 - Penny
 - Elliott
 - Shane
+- Emily
 
 **Next up:**
-- All the other marriage candidates
+- Haley's dialogue
 - Add more friendly dialogue based on heart levels
 
 **After that:**
@@ -31,6 +32,7 @@ We'll see if I ever get there.
 
 ## Updates
 
+- 08/14/2018 - ver. 0.11.0 - Added Emily's dialogue
 - 08/14/2018 - ver. 0.10.1 - Fixed incorrect "friendly" dialogue selector for Penny
 - 08/14/2018 - ver. 0.10.0 - Added Shane's dialogue
 - 08/13/2018 - Immersive Festival Dialogue is now on GitHub!
