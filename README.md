@@ -2,8 +2,9 @@
 
 A Stardew Valley Content Patcher mod that adds dialogue for characters during festival events based on what your relationship status is! It gets boring going to the festivals year after year and hearing the same old thing come out of everyone's mouth, regardless of what you've been through together! This mod aims to fix that - and make festivals worth going to again.
 
-**0.12.0 - The Haley Update**  
-Includes new festival dialogue for all marriage candidates!
+**1.0.0 - Official Release!**  
+Includes approximately 600 lines of new festival dialogue for marriage candidates!
+Fixes some incorrect selectors for marriage dialogue.
 
 **How To Install:**  
 - Install the latest version of SMAPI [https://smapi.io]
